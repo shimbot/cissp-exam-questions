@@ -553,3 +553,25 @@ A large multinational organization is establishing an Information Security Steer
 
 ---
 
+
+## Question #25
+
+**Question:**
+
+An information security manager implemented a new security awareness program that includes annual computer-based training modules, quarterly phishing simulations, and a monthly newsletter. Despite these efforts, a recent internal audit shows that 40% of employees still fail to report suspicious emails, and click-through rates on phishing simulations remain above 25%. Which of the following would BEST address this gap?
+
+- **A)** Replace the phishing simulations with a more restrictive technical control, such as blocking all external email links
+- **B)** Increase the frequency of phishing simulations to weekly and double the consequence for employees who click
+- **C)** Shift the focus from awareness to security education by providing personalized, role-based learning that reinforces behavior change through ongoing engagement
+- **D)** Outsource the entire security awareness program to a third-party vendor that guarantees lower click-through rates
+
+*Think about it before scrolling...*
+
+📌 **Answer: C**
+
+💡 **Tip:** The ISC2 Common Body of Knowledge distinguishes between security awareness (attention/reminders), training (skill building), and education (deeper understanding). When awareness alone fails to change behavior, the solution is to move up the maturity model toward education with role-based, personalized learning. Technical controls (A) bypass the human element, punishment (B) creates fear not understanding, and outsourcing (D) doesn't address the root cause of the program's ineffectiveness.
+
+🔥 **Key Takeaway:** Security awareness builds attention, training builds skills, and education builds judgment — each is necessary and they exist on a continuum, not as interchangeable alternatives.
+
+---
+
