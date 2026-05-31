@@ -487,3 +487,25 @@ As the CISO of a global financial firm, you receive daily threat briefings from 
 
 ---
 
+
+## Question #22
+
+**Question:**
+
+As the new CISO of a multinational corporation, you are preparing your first quarterly risk briefing for the Board of Directors. The board members are primarily finance and legal professionals with limited technical backgrounds. During the meeting, you need to present the organization's current risk posture and justify a proposed $2M investment in a new SIEM platform. Which of the following approaches would be MOST effective for communicating security risk to this audience?
+
+- **A)** Present detailed technical specifications of the SIEM, including log ingestion rates, correlation engine capabilities, and integration architecture diagrams
+- **B)** Frame the discussion using business language — translate technical vulnerabilities into financial exposure, present risk in terms of likelihood and business impact, and use risk registers showing residual vs. inherent risk
+- **C)** Walk through the complete CVSS scores of the top 20 critical vulnerabilities identified in the latest scan, explaining the attack vector complexity for each
+- **D)** Distribute the full NIST SP 800-53 control assessment report and ask the board to approve the SIEM purchase based on the number of control deficiencies found
+
+*Think about it before scrolling...*
+
+📌 **Answer: B**
+
+💡 **Tip:** The Board of Directors cares about business outcomes, not technical details. CISSP emphasizes that security professionals must "speak the language of the business" — translating risk into financial terms (potential dollar loss, probability, ROI) enables informed decision-making by non-technical stakeholders. Framing security investments using risk management principles (inherent risk, residual risk, cost-benefit analysis) is the hallmark of effective security governance.
+
+🔥 **Key Takeaway:** Always communicate security risk to executive leadership and the board in business terms — translate technical vulnerabilities into financial exposure and risk-based decisions.
+
+---
+
