@@ -26,7 +26,7 @@ A security manager at a financial institution is tasked with creating a document
 
 ---
 
-## Question #3
+## Question #2
 
 
 **Question:**
@@ -50,7 +50,7 @@ Which framework BEST meets these requirements?
 
 ---
 
-## Question #5
+## Question #3
 
 
 **Question:**
@@ -76,7 +76,7 @@ A multinational corporation has just acquired a fast-growing SaaS startup. The C
 
 ---
 
-## Question #6
+## Question #4
 
 
 **Question:**
@@ -98,7 +98,7 @@ Your organization has mandated annual security awareness training with a 95% com
 
 ---
 
-## Question #7
+## Question #5
 
 
 **Question:**
@@ -120,7 +120,7 @@ A large hospital network is adopting the NIST Cybersecurity Framework (CSF) to s
 
 ---
 
-## Question #9
+## Question #6
 
 
 **Question:**
@@ -142,7 +142,7 @@ A security architect leads a threat modeling exercise for a new cloud-based paym
 
 ---
 
-## Question #9
+## Question #7
 
 
 **Question:**
@@ -167,7 +167,7 @@ A regional bank discovers a SQL injection vulnerability in its legacy online loa
 
 ---
 
-## Question #9
+## Question #8
 
 
 **Question:**
@@ -189,7 +189,7 @@ As the CISO of a financial services firm, you review quarterly metrics and notic
 
 ---
 
-## Question #10
+## Question #9
 
 
 **Question:**
@@ -259,7 +259,7 @@ A large retail company has completed a risk assessment on its new e-commerce pla
 
 ---
 
-## Question #11
+## Question #12
 
 
 **Question:**
@@ -281,7 +281,7 @@ As the CISO for a mid-sized financial firm, you are leading the annual enterpris
 
 ---
 
-## Question #12
+## Question #13
 
 
 **Question:**
@@ -303,7 +303,7 @@ A multinational financial services firm headquartered in Frankfurt operates data
 
 ---
 
-## Question #13
+## Question #14
 
 
 **Question:**
@@ -325,7 +325,7 @@ Your organization is launching a new patient-facing mobile health application th
 
 ---
 
-## Question #13
+## Question #15
 
 
 **Question:**
@@ -349,7 +349,7 @@ Which of the following BEST characterizes the legal framework involved in the pa
 
 ---
 
-## Question #14
+## Question #16
 
 
 **Question:**
@@ -375,7 +375,7 @@ Which framework BEST meets this requirement?
 
 ---
 
-## Question #22
+## Question #17
 
 
 **Question:**
@@ -401,7 +401,7 @@ A security officer has completed a risk assessment on a new cloud-based customer
 
 ---
 
-## Question #32
+## Question #18
 
 
 **Question:**
@@ -422,7 +422,7 @@ Your organization is outsourcing its customer help desk operations to a third-pa
 
 ---
 
-## Question #36
+## Question #19
 
 
 **Question:**
@@ -443,7 +443,7 @@ Your organization's data retention policy mandates deletion of all emails and do
 
 ---
 
-## Question #37
+## Question #20
 
 
 **Question:**
@@ -464,16 +464,19 @@ Your organization's manufacturing division relies on a critical third-party supp
 ---
 
 
-## Question #39
+## Question #21
 
 **Question:**
 
 As the CISO of a global financial firm, you receive daily threat briefings from your SOC team. The CEO asks for a high-level summary of geopolitical risks that could affect the organization's strategic investments over the next 12 months. Separately, your network defense team needs specific IP addresses, domains, and malware hashes to update firewall rules and IOC feeds. Which statement BEST describes the relationship between these two threat intelligence needs?
 
-A) Both needs can be satisfied by a single commercial threat intelligence feed if it provides adequate technical context.
-B) The CEO needs tactical intelligence while the network team needs operational intelligence, so different feeds and analysts are required.
-C) The CEO requires strategic intelligence for long-term decision-making, and the network team requires operational/tactical intelligence for immediate defense—each serves a different tier in the organization.
-D) Strategic intelligence is derived directly from tactical intelligence through automated correlation, so one platform can serve both needs without human analysis.
+- **A)** Both needs can be satisfied by a single commercial threat intelligence feed if it provides adequate technical context.
+- **B)** The CEO needs tactical intelligence while the network team needs operational intelligence, so different feeds and analysts are required.
+- **C)** The CEO requires strategic intelligence for long-term decision-making, and the network team requires operational/tactical intelligence for immediate defense—each serves a different tier in the organization.
+- **D)** Strategic intelligence is derived directly from tactical intelligence through automated correlation, so one platform can serve both needs without human analysis.
+
+
+*Think about it before scrolling...*
 
 📌 **Answer: C**
 
