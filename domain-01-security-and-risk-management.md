@@ -531,25 +531,3 @@ A security manager is presenting a proposal to executive leadership for a new da
 
 ---
 
-
-## Question #24
-
-**Question:**
-
-test question - ignore
-
-- **A)** a
-- **B)** b
-- **C)** c
-- **D)** d
-
-*Think about it before scrolling...*
-
-📌 **Answer: B**
-
-💡 **Tip:** test tip
-
-🔥 **Key Takeaway:** test takeaway
-
----
-
