@@ -463,3 +463,23 @@ Your organization's manufacturing division relies on a critical third-party supp
 
 ---
 
+
+## Question #39
+
+**Question:**
+
+As the CISO of a global financial firm, you receive daily threat briefings from your SOC team. The CEO asks for a high-level summary of geopolitical risks that could affect the organization's strategic investments over the next 12 months. Separately, your network defense team needs specific IP addresses, domains, and malware hashes to update firewall rules and IOC feeds. Which statement BEST describes the relationship between these two threat intelligence needs?
+
+A) Both needs can be satisfied by a single commercial threat intelligence feed if it provides adequate technical context.
+B) The CEO needs tactical intelligence while the network team needs operational intelligence, so different feeds and analysts are required.
+C) The CEO requires strategic intelligence for long-term decision-making, and the network team requires operational/tactical intelligence for immediate defense—each serves a different tier in the organization.
+D) Strategic intelligence is derived directly from tactical intelligence through automated correlation, so one platform can serve both needs without human analysis.
+
+📌 **Answer: C**
+
+💡 **Tip:** The CISSP divides threat intelligence into four tiers — **Strategic** (executive/board level, long-term trends, geopolitical), **Operational** (campaign-level insight into upcoming attacks, TTPs), **Tactical** (IOCs like IPs, hashes, domains for immediate defense), and **Technical** (detailed exploit signatures, malware analysis). Mixing these up is a common exam trap — the question will test if you know who consumes each type and at what organizational level.
+
+🔥 **Key Takeaway:** Map intelligence types to organizational levels — strategic = executives/board, tactical/operational = SOC/network defenders, technical = malware analysts/forensic teams.
+
+---
+
