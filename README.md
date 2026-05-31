@@ -1,8 +1,23 @@
-# CISSP Interview Questions
+# CISSP Exam Questions ☑️
 
-Automated repository of CISSP exam questions with tips, organized by domain.
+Automated repository of **CISSP exam questions** with detailed answers and tips, organized by the 8 official domains.
 
-Questions are posted hourly to the [Loop] Telegram group and automatically synced here.
+Questions are posted hourly to the Loop Telegram study group and auto-synced here on every update.
+
+## About CISSP
+
+The **Certified Information Systems Security Professional (CISSP)** is a globally recognized certification in the information security field, administered by **ISC²**. The exam covers 8 domains:
+
+| # | Domain | Weight |
+|---|--------|--------|
+| 1 | **Security and Risk Management** | 16% |
+| 2 | **Asset Security** | 10% |
+| 3 | **Security Architecture and Engineering** | 13% |
+| 4 | **Communication and Network Security** | 13% |
+| 5 | **Identity and Access Management (IAM)** | 13% |
+| 6 | **Security Assessment and Testing** | 12% |
+| 7 | **Security Operations** | 13% |
+| 8 | **Software Development Security** | 10% |
 
 ## Domains
 
@@ -15,6 +30,30 @@ Questions are posted hourly to the [Loop] Telegram group and automatically synce
 - **[Domain 7: Security Operations](domain-07-security-operations.md)** — 0 questions
 - **[Domain 8: Software Development Security](domain-08-software-development-security.md)** — 0 questions
 
+## How It Works
+
+1. A new CISSP question is posted to the study group every hour (7 AM — 9 PM MST)
+2. Each question includes the correct answer, explanation, and exam tips
+3. Questions are automatically appended to the matching domain file in this repo
+4. GitHub Pages serves the content as a clean study website
+
+## Question Format
+
+Every question follows this structure:
+
+- **Scenario** — Real-world exam-style situation
+- **Options** — Multiple choice (A, B, C, D)
+- **Answer** — Correct answer with explanation
+- **Tip** — Key takeaway and exam strategy
+
+## GitHub Pages
+
+This site is served via GitHub Pages at [https://shimbot.github.io/cissp-exam-questions/](https://shimbot.github.io/cissp-exam-questions/)
+
+## Contributing
+
+Questions are auto-generated and synced. For corrections or suggestions, open an issue on the repository.
+
 ---
 
-*Last updated: Auto-synced from hourly CISSP questions*
+*Last updated: Auto-synced from hourly CISSP study questions*
