@@ -57,3 +57,7 @@ Questions are auto-generated and synced. For corrections or suggestions, open an
 ---
 
 *Last updated: Auto-synced from hourly CISSP study questions*
+
+---
+
+👋 Managed by **Javed** — [github.com/javedquadri](https://github.com/javedquadri)
