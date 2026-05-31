@@ -509,3 +509,25 @@ As the new CISO of a multinational corporation, you are preparing your first qua
 
 ---
 
+
+## Question #23
+
+**Question:**
+
+A security manager is presenting a proposal to executive leadership for a new data loss prevention (DLP) system. The DLP solution costs $500,000 to implement and $75,000 per year for maintenance and licensing. Historical data shows that a single significant data breach costs the organization approximately $2.5 million in fines, remediation, and reputational damage, and such breaches have occurred roughly once every two years. Which of the following BEST provides a business-justified rationale for approving this investment?
+
+- **A)** The DLP system will eliminate all data breach risk, making the organization fully compliant with industry regulations
+- **B)** The annualized loss expectancy (ALE) of $1.25 million exceeds the total cost of ownership, making the investment financially justified
+- **C)** Industry peers and competitors all deploy DLP technology, so the organization must follow best practices to remain competitive
+- **D)** Existing security policies mandate implementation of DLP for any organization handling sensitive customer data
+
+*Think about it before scrolling...*
+
+📌 **Answer: B**
+
+💡 **Tip:** This question tests cost-benefit analysis for security controls. Calculate ALE = SLE ($2.5M) × ARO (0.5) = $1.25M per year. Compare to the control's annual cost (~$125K-$200K amortized). When ALE exceeds the control cost, the investment is financially justified. Trap choices: A is wrong because no control eliminates all risk (residual risk always remains); C is "bandwagon fallacy" — peer pressure is not business justification; D conflates policy with financial analysis — policies don't automatically justify any price tag. CISSP expects you to use quantitative risk analysis to make business cases.
+
+🔥 **Key Takeaway:** When given a cost vs. historical loss scenario, always compute ALE (SLE × ARO) and compare to the control's annual cost — if ALE > cost, the investment is financially justified.
+
+---
+
