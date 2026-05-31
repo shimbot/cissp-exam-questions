@@ -531,3 +531,25 @@ A security manager is presenting a proposal to executive leadership for a new da
 
 ---
 
+
+## Question #24
+
+**Question:**
+
+A large multinational organization is establishing an Information Security Steering Committee to improve oversight of its security program. The committee includes the CISO, CTO, heads of legal and HR, and business unit VPs. Which of the following is the PRIMARY responsibility of this steering committee?
+
+- **A)** Approving and prioritizing security initiatives and ensuring alignment with business objectives
+- **B)** Conducting daily security incident response operations
+- **C)** Writing detailed firewall and access control policies for the network team
+- **D)** Performing technical vulnerability scans on critical systems
+
+*Think about it before scrolling...*
+
+📌 **Answer: A**
+
+💡 **Tip:** The information security steering committee is a senior management governance body, not an operational or technical team. Its role is to align security strategy with business goals, approve major initiatives, review risk posture, and secure funding — not to execute hands-on technical tasks. Operational tasks (incident response, writing technical policies, vulnerability scanning) belong to the security operations team, not the steering committee.
+
+🔥 **Key Takeaway:** A steering committee provides governance, prioritization, and business alignment — it does not perform day-to-day security operations.
+
+---
+
