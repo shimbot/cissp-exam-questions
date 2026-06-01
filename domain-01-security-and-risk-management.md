@@ -729,3 +729,25 @@ A security architect is designing controls for a new financial application. A da
 
 ---
 
+
+## Question #33
+
+**Question:**
+
+A large financial institution is restructuring its security governance model. The CISO has defined strategic security direction, a security architect has designed a new zero-trust architecture, and security analysts monitor alerts daily. However, the organization is struggling because no single role is formally responsible for approving changes to security policies, reviewing exception requests, or ensuring that security projects align with the enterprise risk appetite. Which role is MOST likely missing from this governance structure?
+
+- **A)** Data custodian
+- **B)** Security manager / Director of Security
+- **C)** Chief Information Officer (CIO)
+- **D)** Internal auditor
+
+*Think about it before scrolling...*
+
+📌 **Answer: B**
+
+💡 **Tip:** The Security Manager (or Director of Security) sits between strategic leadership (CISO) and technical operations (architects/analysts). This role owns operational governance — approving policy changes, managing exceptions, and ensuring day-to-day security activities align with the organization's risk appetite. The CISO sets strategy, while the Security Manager executes and enforces it.
+
+🔥 **Key Takeaway:** In security governance, clearly defined roles — CISO (strategic), Security Manager (operational/tactical), Security Architect (design), and Security Analyst (monitoring) — prevent gaps in policy enforcement and exception management.
+
+---
+
