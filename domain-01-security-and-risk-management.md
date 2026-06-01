@@ -619,3 +619,25 @@ A security manager discovers that a vulnerability in the company's customer data
 
 ---
 
+
+## Question #28
+
+**Question:**
+
+A regional bank processes credit card transactions and stores cardholder data. The bank recently expanded its IT infrastructure to a cloud environment. Under PCI DSS requirements, which of the following BEST describes the bank's responsibility regarding the cloud provider handling cardholder data?
+
+- **A)** The bank and cloud provider share equal responsibility for all PCI DSS requirements
+- **B)** The bank can delegate all PCI DSS compliance obligations to the cloud provider
+- **C)** The bank remains responsible for PCI DSS compliance, even if the cloud provider is also compliant
+- **D)** PCI DSS does not apply to cloud environments, only to physical card processing terminals
+
+*Think about it before scrolling...*
+
+📌 **Answer: C**
+
+💡 **Tip:** PCI DSS is a merchant responsibility. While a cloud provider can be PCI DSS validated (e.g., via a Report on Compliance or Attestation of Compliance), the merchant/bank cannot outsource its accountability. The acquiring bank and payment brands ultimately hold the merchant responsible for breaches and non-compliance, regardless of third-party arrangements.
+
+🔥 **Key Takeaway:** Under PCI DSS, compliance accountability always rests with the merchant — third-party service providers can assist, but cannot absorb the merchant's responsibility.
+
+---
+
