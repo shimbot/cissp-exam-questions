@@ -883,3 +883,25 @@ An organization that processes credit card transactions needs to select a disast
 
 ---
 
+
+## Question #40
+
+**Question:**
+
+As the CISO of a multinational corporation, you learn that a senior systems administrator has discovered evidence of financial fraud being committed by a mid-level manager. The administrator reported the issue to their direct supervisor, who instructed them to "look the other way." The administrator then comes to you with the evidence. Based on the ISC2 Code of Ethics, what is your BEST course of action?
+
+- **A)** Advise the administrator to destroy the evidence to avoid legal liability for the company.
+- **B)** Report the matter to appropriate law enforcement authorities and cooperate fully with any investigation.
+- **C)** Convene an internal meeting with the manager and supervisor to resolve the matter privately.
+- **D)** Terminate the administrator for failing to follow the chain of command properly.
+
+*Think about it before scrolling...*
+
+📌 **Answer: B**
+
+💡 **Tip:** The ISC2 Code of Ethics Canon IV requires members to "protect society, the common good, and the public trust." Combating fraud and illegal activity — especially when a supervisor has instructed someone to ignore it — takes precedence over internal company politics. Reporting to law enforcement is mandatory when criminal activity is discovered.
+
+🔥 **Key Takeaway:** When criminal evidence surfaces and internal channels are compromised, the ISC2 Code of Ethics obligates security professionals to report to law enforcement — protecting society over organizational convenience.
+
+---
+
