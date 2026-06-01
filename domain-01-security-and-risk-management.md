@@ -817,3 +817,25 @@ A global manufacturing company has implemented a formal change management proces
 
 ---
 
+
+## Question #37
+
+**Question:**
+
+A security analyst presents a risk heat map to the CISO showing likelihood (x-axis) and impact (y-axis) for 15 identified risks. Four risks fall in the red zone (high likelihood, high impact). The CISO asks, "How should we prioritize remediation when multiple risks share the same high-priority cell?" Which of the following BEST guides the next step?
+
+- **A)** Treat all red-zone risks equally since they occupy the same heat-map cell
+- **B)** Apply a cost-benefit analysis to determine which red-zone risk offers the greatest risk reduction per dollar spent
+- **C)** Recalculate ALE for each risk numerically and rank by monetary exposure
+- **D)** Escalate all red-zone risks to the board for funding decisions
+
+*Think about it before scrolling...*
+
+📌 **Answer: C**
+
+💡 **Tip:** A risk heat map is a qualitative tool for broad prioritization, but when multiple risks land in the same cell, you need quantitative analysis (ALE = SLE × ARO) to break ties by actual monetary exposure. This hybrid approach respects the qualitative picture while using hard numbers for ranking.
+
+🔥 **Key Takeaway:** Heat maps define priority bands; quantitative ALE values break ties within the same band.
+
+---
+
