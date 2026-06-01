@@ -751,3 +751,25 @@ A large financial institution is restructuring its security governance model. Th
 
 ---
 
+
+## Question #34
+
+**Question:**
+
+A multinational organization is deploying a new customer-facing mobile application that will collect personally identifiable information (PII) from users across multiple jurisdictions. The Chief Privacy Officer mandates that privacy controls must be embedded into the application's design from the outset rather than added as an afterthought. This approach aligns most directly with which fundamental principle?
+
+- **A)** Privacy by Default
+- **B)** Privacy as the Default Setting
+- **C)** Privacy by Design
+- **D)** Privacy Impact Assessment
+
+*Think about it before scrolling...*
+
+📌 **Answer: C**
+
+💡 **Tip:** Privacy by Design (PbD), created by Ann Cavoukian, is a proactive framework that embeds privacy into the architecture and design of systems from the very beginning. It includes 7 foundational principles — proactive not reactive, privacy as the default, embedded into design, full functionality (positive-sum), end-to-end security, visibility and transparency, and respect for user privacy. While Privacy Impact Assessment (PIA) is a related tool for identifying privacy risks, it is a process, not the overarching design philosophy.
+
+🔥 **Key Takeaway:** Privacy by Design mandates that privacy is built into systems proactively at the design stage, not bolted on later — a key governance and risk management concept for CISSP.
+
+---
+
