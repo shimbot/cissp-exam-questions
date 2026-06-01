@@ -839,3 +839,25 @@ A security analyst presents a risk heat map to the CISO showing likelihood (x-ax
 
 ---
 
+
+## Question #38
+
+**Question:**
+
+A security manager implemented a new security awareness program. After six months, management asks: "How do we know it's working?" The CISO wants evidence that employee behavior has actually changed, beyond just completion rates. Which metric BEST demonstrates that the training has modified on-the-job behavior corresponding to Level 3 of Kirkpatrick's training evaluation model?
+
+- **A)** 95% of employees passed the post-training quiz with a score of 80% or higher
+- **B)** The organization's phishing simulation click rate dropped from 35% to 12% after the training
+- **C)** Employees rated the training 4.5 out of 5 on relevance and engagement surveys
+- **D)** The organization achieved full compliance with regulatory annual training mandates
+
+*Think about it before scrolling...*
+
+📌 **Answer: B**
+
+💡 **Tip:** Kirkpatrick's Four-Level Evaluation Model: Level 1 = Reaction (satisfaction surveys — option C), Level 2 = Learning (quiz scores — option A), Level 3 = Behavior (applied on the job — option B), Level 4 = Results (business outcomes / compliance — option D). The phishing click reduction directly measures whether employees are applying what they learned.
+
+🔥 **Key Takeaway:** When evaluating security awareness training, map metrics to Kirkpatrick's levels: only Level 3 (Behavior) and Level 4 (Results) prove the training actually reduced risk.
+
+---
+
