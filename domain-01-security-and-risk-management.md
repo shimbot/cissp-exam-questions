@@ -795,3 +795,25 @@ A multinational organization is implementing a new cloud-based SaaS platform and
 
 ---
 
+
+## Question #36
+
+**Question:**
+
+A global manufacturing company has implemented a formal change management process requiring all production system changes to be reviewed and approved by a Change Advisory Board (CAB). During a critical vulnerability patch, the security team bypassed the CAB to deploy an emergency fix that required rebooting a production database server during business hours, causing 45 minutes of downtime. Which of the following BEST describes the security governance principle that was violated?
+
+- **A)** Separation of duties between developers and operations
+- **B)** The organization's due diligence obligation to protect shareholder value
+- **C)** The requirement that security controls must not impede business operations
+- **D)** The established policy hierarchy of standards, procedures, and guidelines
+
+*Think about it before scrolling...*
+
+📌 **Answer: B**
+
+💡 **Tip:** Due diligence requires an organization to exercise reasonable care in protecting assets and meeting obligations. While emergency change processes exist, bypassing established governance (the CAB) without following documented emergency change procedures can create legal liability. The security team acted with good intent but violated the governance principle of following prescribed change management processes, which is part of the organization's due diligence responsibilities to stakeholders.
+
+🔥 **Key Takeaway:** Even well-intentioned security actions must follow established governance procedures — bypassing change management processes exposes the organization to due diligence liability.
+
+---
+
