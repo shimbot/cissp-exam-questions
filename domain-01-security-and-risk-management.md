@@ -575,3 +575,25 @@ An information security manager implemented a new security awareness program tha
 
 ---
 
+
+## Question #26
+
+**Question:**
+
+A regional hospital chain operates across three U.S. states and maintains electronic protected health information (ePHI) for over 500,000 patients. During an internal audit, the CISO discovers that while the organization has comprehensive policies for who may access patient records (privacy controls), there are no controls ensuring the integrity of the ePHI during transmission between facilities, nor are there automated mechanisms to detect unauthorized modification of stored data. Which HIPAA regulation is the organization MOST directly violating?
+
+- **A)** The HIPAA Privacy Rule, because it fails to restrict access based on minimum necessary standard
+- **B)** The HIPAA Security Rule, specifically the integrity control standard under the Administrative Safeguards
+- **C)** The HIPAA Security Rule, specifically the integrity control standard under the Technical Safeguards
+- **D)** The HITECH Act, because it requires breach notification for any unsecured ePHI
+
+*Think about it before scrolling...*
+
+📌 **Answer: C**
+
+💡 **Tip:** The HIPAA Security Rule has three safeguard categories: Administrative (policies, training), Physical (facility access), and Technical (technology/automated controls). Integrity controls — mechanisms to ensure ePHI is not improperly altered or destroyed — fall under Technical Safeguards (164.312(c)(1)). The Privacy Rule governs use/disclosure of PHI, not technical integrity of ePHI.
+
+🔥 **Key Takeaway:** HIPAA Security Rule Technical Safeguards include integrity controls (mechanisms to authenticate ePHI and detect unauthorized alteration), distinct from both the Privacy Rule and Administrative Safeguards.
+
+---
+
