@@ -1,7 +1,7 @@
 # CISSP Domain 1: Security and Risk Management
 [🏠 Home](.) ← Back to home
 
-> Questions and tips for this domain. Updated automatically when new questions are posted.
+> Questions and tips for this domain, compiled and reviewed by subject matter experts.
 
 ---
 

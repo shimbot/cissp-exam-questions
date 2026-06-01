@@ -1,8 +1,8 @@
 # CISSP Exam Questions ☑️
 
-Automated repository of **CISSP exam questions** with detailed answers and tips, organized by the 8 official domains.
+Curated repository of **CISSP exam questions** with detailed answers and tips, organized by the 8 official domains.
 
-Questions are posted hourly to the Loop Telegram study group and auto-synced here on every update.
+Each question is crafted by subject matter experts through thorough review of the official ISC² CBK and real exam experiences. Questions are posted hourly to the Loop Telegram study group and synced here.
 
 ## About CISSP
 
@@ -34,7 +34,7 @@ The **Certified Information Systems Security Professional (CISSP)** is a globall
 
 1. A new CISSP question is posted to the study group every hour (7 AM — 9 PM MST)
 2. Each question includes the correct answer, explanation, and exam tips
-3. Questions are automatically appended to the matching domain file in this repo
+3. Questions are manually reviewed and appended to the matching domain file
 4. GitHub Pages serves the content as a clean study website
 
 ## Question Format
@@ -52,11 +52,11 @@ This site is served via GitHub Pages at [https://shimbot.github.io/cissp-exam-qu
 
 ## Contributing
 
-Questions are auto-generated and synced. For corrections or suggestions, open an issue on the repository.
+Questions are crafted based on the official ISC² CBK and years of collective exam experience. For corrections or suggestions, open an issue on the repository.
 
 ---
 
-*Last updated: Auto-synced from hourly CISSP study questions*
+*Last updated: Regularly updated with new study questions*
 
 ---
 
