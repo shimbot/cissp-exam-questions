@@ -861,3 +861,25 @@ A security manager implemented a new security awareness program. After six month
 
 ---
 
+
+## Question #39
+
+**Question:**
+
+An organization that processes credit card transactions needs to select a disaster recovery site for its data center. The organization requires recovery within 4 hours of a disaster and must lose no more than 2 minutes of transaction data. The budget is constrained — leadership wants the most cost-effective option that still meets these requirements. Which recovery site strategy should the organization choose?
+
+- **A)** Cold site — lease a pre-wired facility and install all equipment after a disaster
+- **B)** Hot site — a fully configured duplicate facility with live data replication
+- **C)** Warm site — a partially configured facility with equipment but data restored from backups
+- **D)** Redundant site — a geographically dispersed active-active cluster
+
+*Think about it before scrolling...*
+
+📌 **Answer: C)**
+
+💡 **Tip:** The RTO of 4 hours and RPO of 2 minutes drive the site choice. Cold site (weeks) fails RTO. Hot site meets it but is most expensive. Warm site with recent backups and pre-staged equipment can meet a 4-hour RTO at lower cost than a hot site, though the 2-minute RPO requires frequent snapshots or near-real-time replication to backup media.
+
+🔥 **Key Takeaway:** Always match the recovery site strategy to the required RTO/RPO — cold sites serve long RTOs (days/weeks), warm sites serve medium RTOs (hours), and hot sites serve the shortest RTOs (minutes).
+
+---
+
