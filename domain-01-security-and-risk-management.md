@@ -663,3 +663,25 @@ A multinational publicly traded company that handles financial data for US subsi
 
 ---
 
+
+## Question #30
+
+**Question:**
+
+A security auditor is reviewing the controls at a financial services company. She notes that the company has installed biometric scanners at data center entrances, implemented a mandatory data classification policy signed by all employees, and deployed a DLP solution that monitors outbound network traffic. Which statement BEST classifies these controls?
+
+- **A)** Biometric scanner = physical; data classification policy = administrative; DLP = technical
+- **B)** Biometric scanner = technical; data classification policy = administrative; DLP = physical
+- **C)** Biometric scanner = physical; data classification policy = technical; DLP = administrative
+- **D)** Biometric scanner = administrative; data classification policy = physical; DLP = technical
+
+*Think about it before scrolling...*
+
+📌 **Answer: A**
+
+💡 **Tip:** Security controls fall into three categories. Administrative controls are policies, procedures, and training. Technical (logical) controls include software/hardware mechanisms like DLP, firewalls, and encryption. Physical controls protect facilities and equipment — biometrics, locks, guards, and fences. Many real-world safeguards combine multiple categories, but knowing the primary classification is key for the exam.
+
+🔥 **Key Takeaway:** Always classify controls as administrative (policies/people), technical (software/hardware), or physical (facilities/equipment) based on their primary mechanism.
+
+---
+
