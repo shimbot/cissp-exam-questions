@@ -641,3 +641,25 @@ A regional bank processes credit card transactions and stores cardholder data. T
 
 ---
 
+
+## Question #29
+
+**Question:**
+
+A multinational publicly traded company that handles financial data for US subsidiaries is undergoing an audit. The auditor asks the CISO to confirm that controls are in place ensuring the accuracy and integrity of financial reporting systems. The CISO must validate that internal controls over financial reporting are documented, tested, and that any deficiencies are reported to the audit committee. Which US regulation is driving this requirement?
+
+- **A)** HIPAA Security Rule
+- **B)** Sarbanes-Oxley Act (SOX) Section 404
+- **C)** Gramm-Leach-Bliley Act (GLBA)
+- **D)** PCI DSS v4.0
+
+*Think about it before scrolling...*
+
+📌 **Answer: B**
+
+💡 **Tip:** SOX Section 404 requires management and the external auditor to report on the adequacy of internal controls over financial reporting (ICFR). CISSPs should know that SOX applies to all publicly traded US companies, and the CISO's role includes ensuring IT general controls support financial integrity.
+
+🔥 **Key Takeaway:** SOX Section 404 mandates annual assessment and attestation of internal controls over financial reporting — a critical compliance driver for IT security controls in public companies.
+
+---
+
