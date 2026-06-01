@@ -773,3 +773,25 @@ A multinational organization is deploying a new customer-facing mobile applicati
 
 ---
 
+
+## Question #35
+
+**Question:**
+
+A multinational organization is implementing a new cloud-based SaaS platform and needs to establish secure baseline configurations for all endpoints that will access it. The security manager recommends adopting the CIS Benchmarks as a starting point. Which of the following BEST describes the security benefit of this approach?
+
+- **A)** It guarantees compliance with all regulatory frameworks applicable to the organization
+- **B)** It provides a peer-reviewed, industry-consensus set of configuration guidelines that reduce the attack surface
+- **C)** It eliminates the need for vulnerability scanning by pre-hardening every system component
+- **D)** It replaces the organization's own security policy with a universally accepted standard
+
+*Think about it before scrolling...*
+
+📌 **Answer: B**
+
+💡 **Tip:** CIS Benchmarks are developed through a community consensus process involving security experts, vendors, and practitioners. They serve as a starting (not ending) point — organizations should tailor them to their specific environment, threat model, and business needs. Baselines reduce the attack surface but do not eliminate the need for ongoing monitoring, vulnerability management, or compliance validation.
+
+🔥 **Key Takeaway:** Security baselines like CIS Benchmarks provide industry-vetted, tailored hardening guidance, but organizations must customize them and supplement with continuous monitoring rather than treating them as a compliance silver bullet.
+
+---
+
