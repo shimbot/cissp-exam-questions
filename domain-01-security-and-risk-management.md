@@ -707,3 +707,25 @@ A multinational corporation based in California collects personal information fr
 
 ---
 
+
+## Question #32
+
+**Question:**
+
+A security architect is designing controls for a new financial application. A database activity monitoring (DAM) system is deployed to log all SQL queries and alert when anomalous SELECT statements are executed. An automated web application firewall (WAF) blocks SQL injection attempts before they reach the database. A failover database server can take over within seconds if the primary fails. Which BEST describes the functional control types represented by the DAM, WAF, and failover server, respectively?
+
+- **A)** Detective, preventive, corrective
+- **B)** Preventive, detective, recovery
+- **C)** Detective, preventive, recovery
+- **D)** Preventive, deterrent, corrective
+
+*Think about it before scrolling...*
+
+📌 **Answer: A**
+
+💡 **Tip:** Controls are categorized by function: **preventive** stops incidents (WAF blocking SQLi), **detective** identifies them (DAM alerting on anomalies), **corrective** fixes/restores after an incident (failover taking over). A common trick is confusing "corrective" with "recovery" — corrective controls restore operational capability, while recovery controls support longer-term business continuity.
+
+🔥 **Key Takeaway:** Master the six functional control types (preventive, detective, corrective, deterrent, recovery, compensating) — they appear repeatedly across all eight CISSP domains.
+
+---
+
