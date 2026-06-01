@@ -597,3 +597,25 @@ A regional hospital chain operates across three U.S. states and maintains electr
 
 ---
 
+
+## Question #27
+
+**Question:**
+
+A security manager discovers that a vulnerability in the company's customer database could expose personally identifiable information (PII). The CEO, concerned about stock price impact before an upcoming earnings call, orders the manager to delay remediation for 90 days until after the quarterly report is filed. The manager knows this violates data protection regulations. Which ISC2 Code of Ethics Canon is the manager MOST directly obligated to uphold in this scenario?
+
+- **A)** Canon II: Act honorably, honestly, justly, responsibly, and legally
+- **B)** Canon IV: Advance and protect the profession
+- **C)** Canon I: Protect society, the common good, the public trust, and the infrastructure
+- **D)** Canon III: Provide diligent and competent service to principals
+
+*Think about it before scrolling...*
+
+📌 **Answer: C**
+
+💡 **Tip:** The ISC2 Code of Ethics has a strict hierarchy: Canon I (protect society/public) takes precedence over Canon III (duty to employer/principal). When public safety or legal obligations conflict with business interests, the security professional's foremost duty is to society and the common good — not to the organization's financial performance.
+
+🔥 **Key Takeaway:** The ISC2 Code of Ethics prioritizes society over employers — Canon I always supersedes Canon III when public welfare or legal compliance is at stake.
+
+---
+
