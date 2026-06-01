@@ -685,3 +685,25 @@ A security auditor is reviewing the controls at a financial services company. Sh
 
 ---
 
+
+## Question #31
+
+**Question:**
+
+A multinational corporation based in California collects personal information from both California residents and European Union citizens. The company's Data Protection Officer is comparing privacy compliance obligations under the CCPA and the GDPR. Which of the following BEST describes a key structural difference between the applicability requirements of these two regulations?
+
+- **A)** CCPA applies to any organization that processes data of EU citizens, while GDPR applies only to California-based businesses that exceed $25 million in annual revenue
+- **B)** Both CCPA and GDPR apply uniformly to any organization handling personal data, regardless of size or revenue
+- **C)** CCPA uses revenue and data-volume thresholds for applicability (e.g., $25M+ gross revenue), whereas GDPR applies based on whether an organization processes personal data of individuals residing in the EU
+- **D)** CCPA requires explicit opt-in consent before any data collection, while GDPR operates on an opt-out model for data sharing
+
+*Think about it before scrolling...*
+
+📌 **Answer: C**
+
+💡 **Tip:** CCPA applies to for-profit businesses that meet at least one of three thresholds: $25M+ annual gross revenue, buy/receive/sell personal info of 50K+ consumers/households, or earn 50%+ of annual revenue from selling consumer personal info. GDPR applies extraterritorially to any organization (regardless of revenue) that processes personal data of EU data subjects. This is a commonly tested distinction on the CISSP exam.
+
+🔥 **Key Takeaway:** Know the scope difference: CCPA thresholds are revenue/volume-based, while GDPR's reach is based solely on processing the personal data of EU residents.
+
+---
+
