@@ -1191,3 +1191,25 @@ A Chief Information Security Officer (CISO) is implementing a formal risk assess
 
 ---
 
+
+## Question #54
+
+**Question:**
+
+A CISO presents the annual security program budget to the board, but several directors question whether security initiatives align with the organization's new strategic focus on rapid international market expansion. They want assurance that security investments will enable — not hinder — business growth in new regions while managing compliance risks. Which security governance principle BEST addresses this board-level concern?
+
+- **A)** Risk appetite and tolerance statements should drive all security expenditure decisions
+- **B)** Strategic alignment ensures the security program supports enterprise objectives and priorities
+- **C)** Performance measurement using KRIs and KPIs demonstrates ROI for every security control
+- **D)** Resource management optimizes staffing allocation across existing security operations
+
+*Think about it before scrolling...*
+
+📌 **Answer: B**
+
+💡 **Tip:** Strategic alignment is a core security governance principle (per COBIT and ISO 38500) requiring the security program to directly support the organization's mission, goals, and strategy — not operate in isolation. While risk appetite (A), metrics (C), and resource management (D) are valid governance concerns, strategic alignment is the principle that specifically addresses whether security efforts match business direction.
+
+🔥 **Key Takeaway:** Security governance must be strategically aligned with enterprise objectives — security exists to ENABLE the business, not just protect it.
+
+---
+
