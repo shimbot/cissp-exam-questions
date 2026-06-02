@@ -1037,3 +1037,25 @@ A global manufacturing company recently experienced a significant security breac
 
 ---
 
+
+## Question #47
+
+**Question:**
+
+A large multinational organization maintains a comprehensive security program with hundreds of controls mapped to multiple regulatory frameworks. The CISO wants to provide the board of directors with meaningful, quantifiable insights into the organization's risk posture on a quarterly basis, rather than listing control pass/fail results or audit findings. Which of the following approaches BEST satisfies this requirement?
+
+- **A)** Present the number of security incidents that occurred during the quarter compared to the previous quarter
+- **B)** Report key risk indicators (KRIs) that measure risk exposure against established thresholds and risk appetite
+- **C)** Show the percentage of employees who completed the annual security awareness training
+- **D)** List all outstanding audit findings and their remediation target dates
+
+*Think about it before scrolling...*
+
+📌 **Answer: B**
+
+💡 **Tip:** While all options provide useful operational data, KRIs are specifically designed to give leadership a forward-looking view of risk exposure compared to the organization's defined risk appetite and thresholds. KPIs (like training completion or incident counts) measure operational performance, not risk posture. The board needs aggregated, business-relevant risk insights rather than granular control or audit details.
+
+🔥 **Key Takeaway:** Key Risk Indicators (KRIs) provide executive leadership with quantifiable measures of risk exposure against appetite, distinct from KPIs which measure operational performance.
+
+---
+
