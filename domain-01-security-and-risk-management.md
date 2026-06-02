@@ -1125,3 +1125,25 @@ A large financial services organization must comply with the Gramm-Leach-Bliley 
 
 ---
 
+
+## Question #51
+
+**Question:**
+
+The Chief Information Security Officer (CISO) at a multinational corporation is presenting the annual information security strategic plan to the Board of Directors. The plan includes a multi-year roadmap, proposed resource allocation, and key performance indicators. One board member asks how the security strategy aligns with the organization's broader business objectives. What should the CISO emphasize as the PRIMARY purpose of the security strategic plan?
+
+- **A)** To implement the latest cybersecurity technologies to stay ahead of competitors
+- **B)** To enable the organization to achieve its mission by managing security risks to an acceptable level
+- **C)** To ensure full compliance with all applicable regulatory frameworks across every operating region
+- **D)** To establish a comprehensive set of security policies that cover every operational domain
+
+*Think about it before scrolling...*
+
+📌 **Answer: B**
+
+💡 **Tip:** A security strategic plan is not merely a technology roadmap, a compliance checklist, or a policy catalog. The CISSP emphasizes that security strategy must be business-aligned — its primary purpose is to enable business objectives by identifying, assessing, and managing risks to an acceptable level. Every element of the plan (budget, staffing, controls) should directly support organizational mission and goals.
+
+🔥 **Key Takeaway:** Security strategy is business strategy — the security plan's core purpose is enabling the organization's mission by managing risk, not just deploying technology or achieving compliance.
+
+---
+
