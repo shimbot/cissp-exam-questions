@@ -905,3 +905,25 @@ As the CISO of a multinational corporation, you learn that a senior systems admi
 
 ---
 
+
+## Question #41
+
+**Question:**
+
+A large healthcare organization is drafting a new remote work security policy. The CISO has prepared the policy document, but the Chief Legal Officer and Chief HR Officer have requested modifications. According to security governance principles, who should ultimately approve and formally authorize this policy?
+
+- **A)** The CISO, as the senior security leader
+- **B)** The Chief Legal Officer, as the authority on compliance
+- **C)** Senior management / executive leadership (CEO or Board)
+- **D)** A steering committee composed of mid-level department managers
+
+*Think about it before scrolling...*
+
+📌 **Answer: C**
+
+💡 **Tip:** In security governance, policies are high-level management directives that require formal approval by senior management (CEO, Board of Directors, or designated executive leadership). While the CISO drafts and recommends policies, and legal/HR may provide input, only senior management has the authority to approve organization-wide policy. This ensures policies carry the weight of management backing and are enforceable across the enterprise.
+
+🔥 **Key Takeaway:** Senior management must approve security policies — without their authority, policies lack organizational enforcement power.
+
+---
+
