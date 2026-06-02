@@ -1103,3 +1103,25 @@ A security manager is reviewing the due diligence process for a new cloud-based 
 
 ---
 
+
+## Question #50
+
+**Question:**
+
+A large financial services organization must comply with the Gramm-Leach-Bliley Act (GLBA) as part of its business operations. The CISO needs to ensure customer financial information is properly protected. Under GLBA, which of the following requirements is MOST directly applicable to the organization's information security program?
+
+- **A)** Appointing a Data Protection Officer (DPO) and maintaining Records of Processing Activities (ROPA)
+- **B)** Implementing a written information security program with administrative, technical, and physical safeguards
+- **C)** Conducting annual penetration tests on all internet-facing systems and quarterly vulnerability scans
+- **D)** Submitting an annual compliance report to the Federal Trade Commission (FTC) for approval
+
+*Think about it before scrolling...*
+
+📌 **Answer: B**
+
+💡 **Tip:** GLBA's Safeguards Rule requires financial institutions to develop, implement, and maintain a comprehensive written information security program containing administrative, technical, and physical safeguards. Option A refers to GDPR requirements (DPO/ROPA). While penetration testing may be part of the program, it is not a standalone GLBA requirement. The FTC does not require annual report submissions of this nature under GLBA.
+
+🔥 **Key Takeaway:** GLBA Safeguards Rule mandates a written information security program — not just technical controls, but administrative and physical safeguards as well — making it distinct from other privacy regulations like GDPR or HIPAA.
+
+---
+
