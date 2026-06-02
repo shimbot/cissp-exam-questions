@@ -1213,3 +1213,25 @@ A CISO presents the annual security program budget to the board, but several dir
 
 ---
 
+
+## Question #55
+
+**Question:**
+
+A large healthcare organization is evaluating its information security program maturity. The CISO wants a structured approach to assess current capabilities and create a roadmap for improvement across multiple domains (risk management, access control, incident response). Which framework is BEST suited for this organization's needs?
+
+- **A)** ISO 27001 certification audit
+- **B)** NIST SP 800-53 control assessment
+- **C)** Capability Maturity Model Integration (CMMI) for security
+- **D)** PCI DSS compliance validation
+
+*Think about it before scrolling...*
+
+📌 **Answer: C**
+
+💡 **Tip:** CMMI provides a staged maturity model (Level 1–5: Initial, Managed, Defined, Quantitatively Managed, Optimizing) that allows organizations to assess current capabilities and build a structured improvement roadmap across multiple security domains. ISO 27001 (A) focuses on certifying an ISMS. NIST SP 800-53 (B) is a catalog of controls, not a maturity progression. PCI DSS (D) is a compliance standard for payment card data only.
+
+🔥 **Key Takeaway:** CMMI enables organizations to benchmark security program maturity across domains and create a phased improvement plan — it is a process improvement framework, not just a compliance checklist.
+
+---
+
