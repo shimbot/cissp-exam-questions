@@ -993,3 +993,25 @@ An organization is developing a set of information security policies. The Chief 
 
 ---
 
+
+## Question #45
+
+**Question:**
+
+A large healthcare organization has implemented numerous security controls across its network, endpoints, and applications. The CISO wants to establish a process that provides real-time visibility into the security posture, detects control failures promptly, and feeds data back into the risk management cycle to adjust controls as threats evolve. Which of the following BEST describes this ongoing process?
+
+- **A)** Vulnerability scanning performed quarterly against all critical assets
+- **B)** Information Security Continuous Monitoring (ISCM) as defined by NIST SP 800-137
+- **C)** An annual risk assessment using quantitative analysis methodology
+- **D)** A compliance audit conducted by an external third-party auditor
+
+*Think about it before scrolling...*
+
+📌 **Answer: B**
+
+💡 **Tip:** NIST SP 800-137 defines ISCM as an ongoing process that maintains an accurate picture of an organization's security posture, enables risk-based decisions, and tracks control effectiveness over time — not just point-in-time assessments like quarterly scans, annual assessments, or periodic audits.
+
+🔥 **Key Takeaway:** Continuous monitoring feeds real-time risk data back into the risk management process, enabling organizations to detect and respond to control failures before they lead to breaches.
+
+---
+
