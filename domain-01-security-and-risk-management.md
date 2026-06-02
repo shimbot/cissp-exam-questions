@@ -1059,3 +1059,25 @@ A large multinational organization maintains a comprehensive security program wi
 
 ---
 
+
+## Question #48
+
+**Question:**
+
+A large consulting firm requires all employees and contractors to sign a non-disclosure agreement (NDA) before gaining access to any client systems or data. Which of the following BEST describes the primary security purpose of the NDA in this context?
+
+- **A)** It establishes a legal remedy for unauthorized disclosure of confidential information
+- **B)** It replaces the need for technical access controls on client systems
+- **C)** It formally documents the data classification scheme for client information
+- **D)** It serves as a binding commitment to complete security awareness training annually
+
+*Think about it before scrolling...*
+
+📌 **Answer: A**
+
+💡 **Tip:** An NDA is a legally enforceable contract that creates a confidential relationship and provides legal recourse (injunction, damages) if the confidential information is disclosed without authorization. It does NOT replace technical controls, define data classification, or mandate training — those are separate controls working alongside the NDA as part of defense-in-depth.
+
+🔥 **Key Takeaway:** NDAs are a legal/deterrent control that provide contractual teeth for protecting confidentiality, but they must be complemented by technical and administrative controls.
+
+---
+
