@@ -1081,3 +1081,25 @@ A large consulting firm requires all employees and contractors to sign a non-dis
 
 ---
 
+
+## Question #49
+
+**Question:**
+
+A security manager is reviewing the due diligence process for a new cloud-based SaaS vendor that will handle customer PII. The vendor provides a SOC 2 Type II report, an ISO 27001 certificate, and a signed data processing agreement. However, the vendor's sub-processors operate from a country not recognized as adequate by the relevant privacy regulation. Which of the following should be the security manager's PRIMARY concern?
+
+- **A)** The SOC 2 Type II report may already be outdated and not reflect current control effectiveness
+- **B)** The ISO 27001 certificate does not cover cloud-specific controls
+- **C)** The sub-processors' geographic location may violate cross-border data transfer requirements
+- **D)** The data processing agreement does not supersede the vendor's standard terms of service
+
+*Think about it before scrolling...*
+
+📌 **Answer: C**
+
+💡 **Tip:** While SOC 2 reports and ISO 27001 certificates are valuable third-party assurances, cross-border data transfer restrictions (such as GDPR's adequacy decisions, SCCs, or BCRs) represent a legal compliance requirement that cannot be remediated solely by vendor certifications. The primary concern is whether the sub-processor's jurisdiction allows lawful data transfers.
+
+🔥 **Key Takeaway:** In third-party risk management, legal and regulatory compliance requirements (especially cross-border data transfers) take priority over technical certifications and contractual documents.
+
+---
+
