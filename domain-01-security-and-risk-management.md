@@ -1147,3 +1147,25 @@ The Chief Information Security Officer (CISO) at a multinational corporation is 
 
 ---
 
+
+## Question #52
+
+**Question:**
+
+A large financial institution is implementing a new policy requiring that when an employee resigns or is terminated, their access badges are deactivated immediately upon notification and all system accounts are disabled within two hours. The security team also conducts an exit interview to remind departing employees of continuing confidentiality obligations. Which security principle is the institution primarily enforcing through these actions?
+
+- **A)** Separation of duties
+- **B)** Least privilege
+- **C)** Defense in depth
+- **D)** Job rotation and mandatory vacation
+
+*Think about it before scrolling...*
+
+📌 **Answer: B**
+
+💡 **Tip:** While all options are valid security concepts, the scenario focuses on revoking access that is no longer needed. The principle of **least privilege** dictates that users should have only the minimum access necessary — and when employment ends, that access should be zero. Exit interviews, badge deactivation, and account disablement all enforce that no residual access remains after departure.
+
+🔥 **Key Takeaway:** Termination procedures (account disablement, badge deactivation, exit interviews) are operational controls that enforce the principle of least privilege by eliminating all access when it is no longer required.
+
+---
+
