@@ -1169,3 +1169,25 @@ A large financial institution is implementing a new policy requiring that when a
 
 ---
 
+
+## Question #53
+
+**Question:**
+
+A Chief Information Security Officer (CISO) is implementing a formal risk assessment process and selects the NIST SP 800-30 methodology. In the first step, the team identifies threat sources, events, and vulnerabilities. What is the PRIMARY reason the CISO should prioritize establishing a clear risk appetite and tolerance statement from senior leadership BEFORE completing the risk assessment?
+
+- **A)** To ensure the assessment uses quantitative rather than qualitative analysis methods
+- **B)** So the organization can determine which risks exceed acceptable thresholds and require treatment
+- **C)** To comply with mandatory regulatory requirements for board-level risk documentation
+- **D)** Because risk appetite determines the annual loss expectancy (ALE) calculation formula
+
+*Think about it before scrolling...*
+
+📌 **Answer: B**
+
+💡 **Tip:** Risk appetite defines the amount of risk an organization is willing to accept. Without a clear risk appetite and tolerance statement from leadership, the risk assessment team cannot objectively determine which identified risks must be mitigated, transferred, or accepted. NIST SP 800-30 emphasizes that risk evaluation (comparing assessed risk against risk tolerance) is essential for prioritizing remediation.
+
+🔥 **Key Takeaway:** Risk acceptance thresholds set by leadership are the yardstick against which all assessed risks are measured — without them, risk evaluation has no objective criteria.
+
+---
+
