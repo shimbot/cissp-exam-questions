@@ -971,3 +971,25 @@ A security analyst is calculating the SLE (Single Loss Expectancy) for a data ce
 
 ---
 
+
+## Question #44
+
+**Question:**
+
+An organization is developing a set of information security policies. The Chief Information Security Officer (CISO) classifies policies into three types: those required by law or regulation, those strongly recommended for best practice but not legally mandated, and those purely informational. An acceptable use policy (AUP) on internet browsing is being drafted. Which type of policy does an AUP typically represent?
+
+- **A)** Regulatory policy, because it restricts user behavior based on organizational rules
+- **B)** Informative policy, because it describes acceptable behavior without enforcement
+- **C)** Advisory policy, because it recommends acceptable behavior but allows exceptions with approval
+- **D)** Regulatory policy, because it mandates compliance based on legal requirements
+
+*Think about it before scrolling...*
+
+📌 **Answer: C**
+
+💡 **Tip:** Security policies fall into three categories: Regulatory (legally required, e.g., SOX, HIPAA), Advisory (strongly recommended but with exception process, e.g., AUP), and Informative (educational only, no enforcement, e.g., introductory security awareness info). An AUP typically allows exceptions with manager approval, placing it in the advisory category.
+
+🔥 **Key Takeaway:** Understand the three types of security policies — Regulatory (mandatory by law), Advisory (recommended with exceptions), and Informative (purely educational) — and which common policies fall into each category.
+
+---
+
