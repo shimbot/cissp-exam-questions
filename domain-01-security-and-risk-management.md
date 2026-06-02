@@ -927,3 +927,25 @@ A large healthcare organization is drafting a new remote work security policy. T
 
 ---
 
+
+## Question #42
+
+**Question:**
+
+A security auditor reviews an organization's Acceptable Use Policy (AUP) and notes it clearly states that personal social media browsing is prohibited during work hours. However, during a walkthrough, the auditor observes several employees accessing Facebook and Twitter on company workstations during working hours. No technical controls are in place to enforce the policy. Which of the following BEST describes the organization's security control gap?
+
+- **A)** The organization lacks a compensating administrative control
+- **B)** The organization has a policy without corresponding technical or deterrent controls
+- **C)** The organization's AUP should be rewritten to allow social media
+- **D)** The organization should terminate all employees who violate the AUP
+
+*Think about it before scrolling...*
+
+📌 **Answer: B**
+
+💡 **Tip:** A policy without enforcement (technical controls like web filtering, or deterrent controls like monitoring and disciplinary action) is merely a suggestion. The AUP is an administrative control, but it must be supported by technical and physical controls to be effective. Deterrent controls like periodic audits and progressive discipline also help reinforce compliance.
+
+🔥 **Key Takeaway:** Security policies must be supported by technical and procedural enforcement mechanisms; a policy with no enforcement creates a false sense of security.
+
+---
+
