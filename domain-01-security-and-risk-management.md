@@ -949,3 +949,25 @@ A security auditor reviews an organization's Acceptable Use Policy (AUP) and not
 
 ---
 
+
+## Question #43
+
+**Question:**
+
+A security analyst is calculating the SLE (Single Loss Expectancy) for a data center asset valued at $2,500,000. A fire scenario would destroy 60% of the building's IT infrastructure. Historical data shows this type of incident occurs at a rate of once every 20 years. What is the Annualized Loss Expectancy (ALE) for this risk scenario?
+
+- **A)** $75,000
+- **B)** $1,500,000
+- **C)** $125,000
+- **D)** $50,000
+
+*Think about it before scrolling...*
+
+📌 **Answer: A) $75,000**
+
+💡 **Tip:** Use the risk formula chain: EF x AV = SLE, then SLE x ARO = ALE. Here AV = $2,500,000, EF = 0.60, so SLE = $2,500,000 × 0.60 = $1,500,000. ARO = 1/20 = 0.05. ALE = $1,500,000 × 0.05 = $75,000. A common mistake is skipping the ARO calculation by using the frequency (20 years) directly.
+
+🔥 **Key Takeaway:** Always convert occurrence frequency to an annualized rate (ARO) before multiplying by SLE to find the ALE.
+
+---
+
