@@ -1015,3 +1015,25 @@ A large healthcare organization has implemented numerous security controls acros
 
 ---
 
+
+## Question #46
+
+**Question:**
+
+A global manufacturing company recently experienced a significant security breach. During the post-incident review, it was discovered that the security team had recommended multi-factor authentication and network segmentation two years ago, but the board never approved the budget. The CISO had presented technical details rather than business impact, and senior executives viewed security as purely an IT cost center. Which of the following BEST addresses the root governance failure that prevented these controls from being implemented?
+
+- **A)** Replace the CISO with a candidate who has stronger technical credentials
+- **B)** Ensure executive leadership establishes a strong "tone from the top" regarding security as a business risk and allocates appropriate resources
+- **C)** Outsource all security operations to a managed security service provider (MSSP)
+- **D)** Require the security team to implement compensating controls using existing operational budgets
+
+*Think about it before scrolling...*
+
+📌 **Answer: B**
+
+💡 **Tip:** Security governance requires active board-level engagement and a clear "tone from the top." The CISO must communicate risks in business terms (potential financial loss, regulatory penalties, reputational damage), not technical jargon. Without executive sponsorship and resource allocation, even the best security recommendations will fail. The CISO's job is to enable informed risk decisions by leadership.
+
+🔥 **Key Takeaway:** A "tone from the top" where senior management treats cybersecurity as a business risk — not an IT cost — is the foundation of effective security governance.
+
+---
+
