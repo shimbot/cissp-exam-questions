@@ -1455,3 +1455,25 @@ A multinational corporation's security policy mandates all production database a
 
 ---
 
+
+## Question #66
+
+**Question:**
+
+An organization collects customer personal data exclusively for order processing and shipping. Without informing customers or updating its privacy notice, the marketing department begins using the same data to build behavioral profiles for targeted advertising campaigns. Which Fair Information Practice Principle (FIPP) is the organization most directly violating?
+
+- **A)** Collection Limitation — data should be obtained lawfully and with consent
+- **B)** Use Limitation — data should not be used for purposes other than those specified
+- **C)** Accountability — the data controller must comply with implementation measures
+- **D)** Data Quality — data should be accurate, complete, and kept current
+
+*Think about it before scrolling...*
+
+📌 **Answer: B) Use Limitation**
+
+💡 **Tip:** The Use Limitation principle prohibits using personal data for purposes beyond the originally stated reason unless the data subject consents or a legal authority mandates it. Repurposing customer data for marketing without notice or consent is a textbook violation of this OECD/FIPP principle.
+
+🔥 **Key Takeaway:** The OECD Fair Information Practice Principles (FIPPs) — especially Use Limitation — require organizations to restrict data processing to the purposes disclosed at the time of collection.
+
+---
+
