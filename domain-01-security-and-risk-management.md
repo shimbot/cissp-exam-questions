@@ -1500,3 +1500,25 @@ ENDOFQUESTION
 
 ---
 
+
+## Question #68
+
+**Question:**
+
+A healthcare organization contracts with a cloud-based EHR provider and needs assurance that the provider's security controls are operating effectively over a period of time. The provider provides a SOC report, but the report evaluates the design of controls at a single point in time only. Which type of SOC report has the provider supplied?
+
+- **A)** SOC 2 Type I
+- **B)** SOC 2 Type II
+- **C)** SOC 3 Type II
+- **D)** SOC 1 Type I
+
+*Think about it before scrolling...*
+
+📌 **Answer: A**
+
+💡 **Tip:** SOC 2 Type I evaluates the suitability of the design of controls at a specific point in time. SOC 2 Type II also tests the operating effectiveness of those controls over a defined period (typically 6–12 months). Type II is always more rigorous for ongoing vendor oversight. SOC 3 is a summary report intended for public distribution, while SOC 1 focuses on financial reporting controls.
+
+🔥 **Key Takeaway:** SOC 2 Type I = design only at a point in time; SOC 2 Type II = design + operating effectiveness over time.
+
+---
+
