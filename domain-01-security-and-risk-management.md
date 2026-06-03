@@ -1323,3 +1323,25 @@ A multinational organization has completed a qualitative risk assessment and ide
 
 ---
 
+
+## Question #60
+
+**Question:**
+
+A financial services company implements a mandatory vacation policy requiring all employees in sensitive financial operations roles to take one consecutive week of leave each year. During this period, access rights are temporarily suspended, and another employee performs the duties. This policy is PRIMARILY designed to detect and prevent:
+
+- **A)** Employee burnout and improve work-life balance
+- **B)** Insider fraud and collusion through forced absence
+- **C)** Violations of the company's acceptable use policy
+- **D)** Key-person dependency and single points of failure
+
+*Think about it before scrolling...*
+
+📌 **Answer: B**
+
+💡 **Tip:** Mandatory vacation is a detective and preventive control — by requiring employees to be away from their duties, anomalies and fraudulent activities (like unauthorized transactions or data manipulation) that require ongoing presence to sustain are more likely to surface. It works hand-in-hand with job rotation and separation of duties as a personnel security triad.
+
+🔥 **Key Takeaway:** Mandatory vacation is a personnel security control primarily aimed at detecting and preventing insider fraud, collusion, and abuse by requiring sensitive-role employees to take uninterrupted leave.
+
+---
+
