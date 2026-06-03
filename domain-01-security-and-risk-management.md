@@ -1544,3 +1544,23 @@ A large healthcare organization is designing its annual security awareness progr
 
 ---
 
+
+## Question #70
+
+**Question:**
+
+A multinational e-commerce company processes credit card transactions from customers in the US and EU. Their security team has implemented strong technical controls including encryption and firewalls. During a routine assessment, the Data Protection Officer (DPO) discovers that their ticketing system—used by customer service agents to resolve order issues—contains full credit card numbers and retains them indefinitely because "it helps with investigations." No access logging is enabled on this system, and agents can export ticket data to personal USB drives. Which compliance requirement is MOST directly being violated here?
+
+- **A)** The need for annual penetration testing per PCI DSS Requirement 11
+- **B)** The data minimization and storage limitation principles of GDPR Article 5
+- **C)** The encryption of cardholder data at rest per PCI DSS Requirement 3
+- **D)** The requirement for breach notification within 72 hours under GDPR Article 33
+
+📌 **Answer: B**
+
+💡 **Tip:** GDPR Article 5(1)(c) mandates data minimization—only collect what's necessary—and Article 5(1)(e) requires that personal data not be kept longer than needed (storage limitation). Full PANs in a ticketing system with no retention policy and unlimited export violate both principles, regardless of whether other controls exist elsewhere. PCI DSS Requirement 3 does mandate protecting stored cardholder data, but the most DIRECT violation here is the GDPR principle violation since the data is kept indefinitely with no business justification and no access governance.
+
+🔥 **Key Takeaway:** GDPR data minimization and storage limitation are fundamental principles; storing full payment data indefinitely in a support ticketing system without access controls violates both GDPR and the principle of least retention.
+
+---
+
