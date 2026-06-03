@@ -1389,3 +1389,25 @@ A large organization wants to implement continuous video surveillance of all emp
 
 ---
 
+
+## Question #63
+
+**Question:**
+
+As the new security manager for a defense contractor, you are tasked with implementing a data classification scheme. The organization handles Top Secret military specifications, internal design documents, public marketing materials, and personnel medical records. Which classification scheme should you implement to BEST address the organization's regulatory and operational needs?
+
+- **A)** Military classification only (Top Secret, Secret, Confidential, Unclassified), since the primary contracts are with the Department of Defense
+- **B)** Commercial classification only (Public, Internal, Confidential, Restricted), since the organization also operates in the private sector
+- **C)** A hybrid scheme using military classification for government contracts and commercial classification for corporate data, with clear cross-mapping procedures
+- **D)** A single unified scheme with five levels based on criticality, regardless of source
+
+*Think about it before scrolling...*
+
+📌 **Answer: C**
+
+💡 **Tip:** Organizations that handle both government-classified data (under executive orders) and commercial proprietary data need separate classification systems because government classifications carry specific legal and statutory handling requirements. Cross-mapping ensures consistent protection. Simply adopting one standard for all data types risks either over-classifying (burdening operations) or under-classifying (violating compliance). CISSP emphasizes that classification levels are organization-specific, but government classifications are legally mandated.
+
+🔥 **Key Takeaway:** When an organization handles both government-classified and private-sector data, a hybrid scheme with cross-mapping is required — never treat legally mandated classifications as optional.
+
+---
+
