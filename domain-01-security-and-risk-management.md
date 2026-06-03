@@ -1411,3 +1411,25 @@ As the new security manager for a defense contractor, you are tasked with implem
 
 ---
 
+
+## Question #64
+
+**Question:**
+
+A multinational corporation experiences a data breach exposing 500,000 customer records that were subject to GDPR, HIPAA, and CCPA requirements. The security team had implemented proper technical controls, but the breach resulted from a failure to conduct required annual compliance audits for two consecutive years. Which of the following BEST describes the organization's primary exposure?
+
+- **A)** Criminal liability under HIPAA for failure to self-report the breach
+- **B)** Statutory penalties from regulatory enforcement agencies for non-compliance with audit requirements
+- **C)** Civil liability under GDPR Article 82 due to failure of data protection by design
+- **D)** Contractual liability to customers for breach of privacy policy commitments
+
+*Think about it before scrolling...*
+
+📌 **Answer: B**
+
+💡 **Tip:** Regulatory enforcement agencies (e.g., EDPB for GDPR, OCR for HIPAA, state AGs for CCPA) can levy significant administrative fines for failing to meet compliance obligations—regardless of whether actual security controls were technically sound. Even without a breach, missing mandated audits or assessments constitutes a standalone compliance violation.
+
+🔥 **Key Takeaway:** Compliance obligations (audits, assessments, reporting) are separate from security effectiveness—regulators penalize process failures, not just breach outcomes.
+
+---
+
