@@ -1257,3 +1257,25 @@ A defense contractor that processes classified information for U.S. federal agen
 
 ---
 
+
+## Question #57
+
+**Question:**
+
+A multinational corporation based in the United States processes personal data of European Union residents through an HR platform hosted in Virginia. After the invalidation of Privacy Shield and the establishment of the EU-US Data Privacy Framework (DPF), the company certifies under the DPF. What ongoing obligation must the company fulfill to maintain compliance under the DPF?
+
+- **A)** Appoint a representative in the EU for all data processing activities
+- **B)** Annually recertify with the U.S. Department of Commerce and publicly maintain its DPF commitments
+- **C)** Conduct a Data Protection Impact Assessment (DPIA) for every HR processing activity
+- **D)** Store all EU personal data on servers physically located within the European Union
+
+*Think about it before scrolling...*
+
+📌 **Answer: B**
+
+💡 **Tip:** The EU-US Data Privacy Framework (DPF) replaced the invalidated Privacy Shield as a cross-border data transfer mechanism. Organizations that self-certify must annually recertify with the U.S. Department of Commerce and publicly commit to the DPF principles. Recertification is a key ongoing compliance requirement — failure to recertify results in removal from the DPF list and loss of the lawful transfer mechanism.
+
+🔥 **Key Takeaway:** The DPF requires annual recertification with the U.S. Department of Commerce; it is not a one-time certification.
+
+---
+
