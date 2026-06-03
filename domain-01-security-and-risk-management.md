@@ -1522,3 +1522,25 @@ A healthcare organization contracts with a cloud-based EHR provider and needs as
 
 ---
 
+
+## Question #69
+
+**Question:**
+
+A large healthcare organization is designing its annual security awareness program. The CISO mandates that all 5,000 employees complete a 30-minute online module covering phishing, password hygiene, and clean desk policy. Six months later, a targeted spear-phishing campaign against the finance department succeeds, and a post-incident review reveals that the finance team had no training on wire transfer verification procedures. Which security governance principle did the organization most clearly overlook?
+
+- **A)** Defense in depth requires multiple overlapping controls across technical, administrative, and physical layers
+- **B)** Security awareness training must be role-based and tailored to the specific risks each job function faces
+- **C)** Policies should be reviewed annually and updated when business processes change
+- **D)** Organizations must conduct a cost-benefit analysis before selecting training delivery methods
+
+*Think about it before scrolling...*
+
+📌 **Answer: B**
+
+💡 **Tip:** CISSP emphasizes that one-size-fits-all awareness training is insufficient. Role-based training ensures that employees in high-risk positions (finance, HR, IT admin, executives) receive targeted instruction on the specific threats and procedures relevant to their duties — this is a key governance requirement under NIST SP 800-50.
+
+🔥 **Key Takeaway:** Tailor security awareness content to job roles; generic training misses the highest-risk functions.
+
+---
+
