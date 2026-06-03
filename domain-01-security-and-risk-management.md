@@ -1345,3 +1345,25 @@ A financial services company implements a mandatory vacation policy requiring al
 
 ---
 
+
+## Question #61
+
+**Question:**
+
+A security manager at a large healthcare organization discovers that a vendor they personally recommended and hold a small amount of stock in has been awarded a multimillion-dollar contract. The vendor's solution meets all requirements and was the most cost-effective option. According to the ISC2 Code of Ethics, what should the security manager do FIRST?
+
+- **A)** Proceed with the contract since the vendor was objectively the best choice and no rules were violated
+- **B)** Recuse themselves from all further decisions and oversight regarding the vendor contract
+- **C)** Divest the stock immediately and then continue managing the vendor relationship
+- **D)** Report the potential conflict of interest to their supervisor or ethics board and recuse themselves from related decisions
+
+*Think about it before scrolling...*
+
+📌 **Answer: D**
+
+💡 **Tip:** The ISC2 Code of Ethics requires members to act honorably, honestly, justly, responsibly, and legally. A perceived conflict of interest must be disclosed proactively — even if the selection was fair. The FIRST step is always disclosure to the appropriate authority; self-remedying (like divesting) or staying involved without disclosure violates the "act honorably" principle.
+
+🔥 **Key Takeaway:** When a conflict of interest arises, prioritize disclosure to the proper authority and recusal — never attempt to self-remediate or stay involved without transparency.
+
+---
+
