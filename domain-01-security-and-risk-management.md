@@ -1477,3 +1477,26 @@ An organization collects customer personal data exclusively for order processing
 
 ---
 
+
+## Question #67
+
+**Question:**
+
+A multinational organization must implement a security program that addresses various external obligations. The legal team notes that the company must comply with data protection laws in every jurisdiction where it operates, while existing client contracts specify minimum security controls. Additionally, the board has mandated that security investments align with the organization's risk appetite. Which of the following BEST categorizes these three sources of security requirements?
+
+- **A)** Regulatory, contractual, and business requirements
+- **B)** Legal, regulatory, and policy requirements
+- **C)** Statutory, technical, and operational requirements
+- **D)** Legislative, procedural, and administrative requirements
+
+*Think about it before scrolling...*
+
+📌 **Answer: A**
+
+💡 **Tip:** Security requirements originate from four primary sources: Legal (laws/case law), Regulatory (agency rules like GDPR/HIPAA), Contractual (SLAs, vendor agreements), and Business (internal policies, board mandates, risk appetite). Option A correctly identifies data protection laws as regulatory, client contracts as contractual, and board alignment as business.
+
+🔥 **Key Takeaway:** Always distinguish between legal, regulatory, contractual, and business sources of security requirements — each imposes different obligations and consequences for noncompliance.
+ENDOFQUESTION
+
+---
+
