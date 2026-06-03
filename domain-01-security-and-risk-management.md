@@ -1279,3 +1279,25 @@ A multinational corporation based in the United States processes personal data o
 
 ---
 
+
+## Question #58
+
+**Question:**
+
+A security manager at a mid-sized financial firm wants to evaluate whether the organization's security program is keeping pace with industry peers. She needs an objective way to identify performance gaps and set improvement targets. Which of the following approaches BEST provides comparative data for this evaluation?
+
+- **A)** Conducting an internal risk assessment using a qualitative risk matrix
+- **B)** Performing a benchmarking analysis against competitor security metrics and industry standards
+- **C)** Reviewing internal security incident trends from the past 12 months
+- **D)** Implementing a SIEM solution to correlate log data across all systems
+
+*Think about it before scrolling...*
+
+📌 **Answer: B**
+
+💡 **Tip:** Benchmarking compares your organization's security practices, metrics, and outcomes against peer organizations and recognized industry standards (e.g., ISO 27001, NIST CSF). It helps identify performance gaps, prioritize improvements, and support budget justifications. Internal-only analysis (A, C) lacks external context, while a SIEM (D) is a technical tool, not a comparative evaluation method.
+
+🔥 **Key Takeaway:** Benchmarking provides the external, comparative perspective needed to evaluate security program maturity and set data-driven improvement targets.
+
+---
+
