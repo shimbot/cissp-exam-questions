@@ -1301,3 +1301,25 @@ A security manager at a mid-sized financial firm wants to evaluate whether the o
 
 ---
 
+
+## Question #59
+
+**Question:**
+
+A multinational organization has completed a qualitative risk assessment and identified a high-risk vulnerability in a legacy customer-facing application. The estimated replacement cost is $2.5M for a new system with modern controls. The expected annual loss from a successful exploit is calculated at $600K, and a retrofit solution costing $400K would reduce the loss expectancy by 75%. Which of the following BEST describes the recommended risk treatment based on cost-benefit analysis?
+
+- **A)** Accept the risk because the retrofit cost exceeds 50% of replacement cost
+- **B)** Transfer the risk by purchasing cyber insurance for the full exposure amount
+- **C)** Apply the retrofit because the ARO-adjusted savings exceed the control cost
+- **D)** Avoid the risk by decommissioning the legacy application immediately
+
+*Think about it before scrolling...*
+
+📌 **Answer: C**
+
+💡 **Tip:** In cost-benefit analysis for risk mitigation, calculate the annualized benefit: (ALE_before - ALE_after) - annual control cost. Here, ALE before = $600K. Retrofit reduces loss by 75%, so ALE after = $150K. Savings = $450K/year. The one-time $400K retrofit pays for itself in under one year — a clear cost-justified mitigation.
+
+🔥 **Key Takeaway:** Risk treatment decisions should be driven by quantitative cost-benefit analysis — a control that reduces annualized loss by more than its annual cost is economically justified.
+
+---
+
