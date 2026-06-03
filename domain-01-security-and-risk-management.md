@@ -1433,3 +1433,25 @@ A multinational corporation experiences a data breach exposing 500,000 customer 
 
 ---
 
+
+## Question #65
+
+**Question:**
+
+A multinational corporation's security policy mandates all production database access must require multi-factor authentication. However, a legacy mainframe system cannot support MFA, and the business cannot absorb the cost of replacement until next fiscal year. The CISO's team drafts a formal document documenting this gap, specifying compensating controls, an owner, a review date, and obtaining sign-off from the business unit VP and the CISO. What BEST describes this process?
+
+- **A)** Risk mitigation
+- **B)** Policy exception management
+- **C)** Control baseline tailoring
+- **D)** Residual risk acceptance
+
+*Think about it before scrolling...*
+
+📌 **Answer: B**
+
+💡 **Tip:** Policy exception management is the formal process for granting temporary relief from a security policy when compliance is infeasible. It requires documented compensating controls, a time-bound expiration, executive sign-off, and periodic review. This is distinct from risk acceptance (which acknowledges but doesn't necessarily exempt a policy) and tailoring (which modifies baselines at the design stage, not reactively for existing systems).
+
+🔥 **Key Takeaway:** Policy exceptions are formal, time-limited, and require compensating controls and executive approval — they are not permanent workarounds or simple risk acceptances.
+
+---
+
