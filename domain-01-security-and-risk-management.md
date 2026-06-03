@@ -1235,3 +1235,25 @@ A large healthcare organization is evaluating its information security program m
 
 ---
 
+
+## Question #56
+
+**Question:**
+
+A defense contractor that processes classified information for U.S. federal agencies must comply with the Federal Information Security Modernization Act (FISMA). As the CISO, you are tasked with ensuring the organization's security program meets FISMA requirements. Which of the following is a PRIMARY requirement under FISMA?
+
+- **A)** Implement a continuous monitoring program and report security status to the Office of Management and Budget (OMB) annually
+- **B)** Conduct a one-time risk assessment at system go-live and submit it to the agency inspector general
+- **C)** Adopt the COSO internal control framework exclusively for all information systems
+- **D)** Obtain an ISO 27001 certification and maintain it through annual surveillance audits
+
+*Think about it before scrolling...*
+
+📌 **Answer: A**
+
+💡 **Tip:** FISMA requires federal agencies and their contractors to develop, document, and implement an agency-wide information security program that includes continuous monitoring of security controls and annual reporting to OMB. FISMA emphasizes ongoing assessment rather than point-in-time compliance.
+
+🔥 **Key Takeaway:** FISMA mandates continuous monitoring and annual reporting to OMB — it's an ongoing risk management process, not a one-time certification or single-framework mandate.
+
+---
+
