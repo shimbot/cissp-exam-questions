@@ -1367,3 +1367,25 @@ A security manager at a large healthcare organization discovers that a vendor th
 
 ---
 
+
+## Question #62
+
+**Question:**
+
+A large organization wants to implement continuous video surveillance of all employee workstations, including screen capture software that records keystrokes and application usage. The legal team has approved the technical implementation. As the security manager, what is your PRIMARY concern regarding this initiative?
+
+- **A)** The cost of storage infrastructure for recorded video and keystroke data
+- **B)** Potential violation of employee privacy expectations and applicable privacy/employment laws in the jurisdiction
+- **C)** Whether the monitoring software has proper encryption for recorded data at rest
+- **D)** The risk that employees will bypass the monitoring by working remotely
+
+*Think about it before scrolling...*
+
+📌 **Answer: B**
+
+💡 **Tip:** Even with legal approval, security managers must balance monitoring for security purposes with employee privacy rights. Many jurisdictions have specific laws governing workplace surveillance (e.g., ECPA in the US, GDPR Article 88 in the EU), requiring clear policies, consent or notification, proportionality, and legitimate business justification. Legal approval alone does not guarantee compliance with all privacy regulations.
+
+🔥 **Key Takeaway:** Workplace privacy monitoring requires a balanced approach — security controls must be proportional, transparently communicated via policy, and compliant with jurisdiction-specific privacy and employment laws.
+
+---
+
