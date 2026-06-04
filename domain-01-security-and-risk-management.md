@@ -1630,3 +1630,25 @@ An organization's security team discovers that a hacker in a foreign country has
 
 ---
 
+
+## Question #74
+
+**Question:**
+
+A global financial services firm operates data centers in the United States, Germany, and Singapore to serve regional customers. A law enforcement agency in Germany demands access to transaction logs of German citizens that are replicated and stored on servers in Singapore. The Singaporean subsidiary refuses, citing local data protection laws prohibiting the transfer of Singapore-stored data to foreign authorities without consent. Which legal concept is at the heart of this conflict?
+
+- **A)** Data sovereignty — the principle that data is subject to the laws of the country where it is physically stored
+- **B)** Privacy by design — embedding privacy controls into system architecture from the outset
+- **C)** Data masking — obfuscating sensitive values to prevent unauthorized disclosure
+- **D)** Right to erasure — the GDPR provision allowing individuals to request deletion of personal data
+
+*Think about it before scrolling...*
+
+📌 **Answer: A**
+
+💡 **Tip:** Data sovereignty means that data stored in a jurisdiction falls under that jurisdiction's laws, regardless of where the owning organization is headquartered. This often conflicts with cross-border law enforcement requests and is a key consideration in global security governance, cloud contracts, and incident response planning.
+
+🔥 **Key Takeaway:** Data sovereignty can override corporate policy and cross-border data requests; security architects must design systems with jurisdictional boundaries in mind.
+
+---
+
