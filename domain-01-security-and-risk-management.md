@@ -1718,3 +1718,25 @@ A large healthcare organization has completed a quantitative risk assessment for
 
 ---
 
+
+## Question #78
+
+**Question:**
+
+As the new CISO for a fast-growing fintech company, you attend a meeting where the VP of Product proposes launching a new feature in two weeks to beat a competitor to market. Your security team's risk assessment shows several moderate-risk findings that will take at least six weeks to fully remediate. The VP argues that delaying the launch will cost millions in lost market share. Which response BEST aligns with the security governance principle of "security as a business enabler"?
+
+- **A)** Reject the launch outright since the risks have not been fully remediated
+- **B)** Accept the six-week timeline and escalate the delay to the board for a final decision
+- **C)** Work with product leadership to implement compensating controls for the most critical risks, accept the residual risk with management sign-off, and plan a phased remediation after launch
+- **D)** Advise the CEO that the VP is violating security policy and recommend disciplinary action
+
+*Think about it before scrolling...*
+
+📌 **Answer: C**
+
+💡 **Tip:** Security governance emphasizes that security must enable, not block, business objectives. Instead of an all-or-nothing approach, a security leader should identify acceptable risk levels, propose compensating controls, and facilitate informed risk acceptance by management — balancing protection with business velocity.
+
+🔥 **Key Takeaway:** Security as a business enabler means finding risk-balanced solutions that allow business goals to move forward while protecting the organization, not saying "no" to everything.
+
+---
+
