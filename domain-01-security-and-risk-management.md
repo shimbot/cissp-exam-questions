@@ -1696,3 +1696,25 @@ A global manufacturing company with operations in the EU, US, and Asia needs to 
 
 ---
 
+
+## Question #77
+
+**Question:**
+
+A large healthcare organization has completed a quantitative risk assessment for its electronic health record (EHR) system. The ALE for a ransomware attack scenario is calculated at $2,400,000, and the organization has a risk appetite that permits accepting up to $500,000 in residual risk per system. A security vendor proposes an advanced endpoint detection suite costing $1,800,000 annually (fully loaded) that would reduce the likelihood by 90%. A second option is a backup-and-isolate strategy costing $350,000 annually that would reduce impact by 85%. Which approach best aligns with the organization's risk management strategy?
+
+- **A)** Select the endpoint detection suite because it reduces likelihood more than the backup strategy reduces impact
+- **B)** Select both controls to achieve defense-in-depth, regardless of the combined cost
+- **C)** Select the backup-and-isolate strategy because it delivers a positive cost-benefit ratio within risk appetite
+- **D)** Accept the risk since neither control reduces it below the residual risk threshold of $500,000
+
+*Think about it before scrolling...*
+
+📌 **Answer: C**
+
+💡 **Tip:** When selecting countermeasures, compare the cost of the control against the reduction in ALE. Option C: Reduced ALE = $2,400,000 × 0.85 = $360,000 residual. Cost = $350,000 → benefit of $2,040,000 reduction for $350,000 = favorable cost-benefit, and residual ($360,000) is within the $500,000 appetite. Option A reduces ALE by 90% → residual $240,000 (within appetite), but costs $1,800,000 vs only $2,160,000 reduction — a poor cost-benefit ratio. Always perform cost-benefit analysis on countermeasure selection.
+
+🔥 **Key Takeaway:** Countermeasure selection must balance effectiveness with cost-benefit analysis; the cheapest adequate control that reduces risk within appetite is often the best business decision — not necessarily the one with the greatest risk reduction percentage.
+
+---
+
