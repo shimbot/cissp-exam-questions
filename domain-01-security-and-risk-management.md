@@ -1564,3 +1564,25 @@ A multinational e-commerce company processes credit card transactions from custo
 
 ---
 
+
+## Question #71
+
+**Question:**
+
+A multinational corporation's security team discovers that a recently terminated employee accessed the company's customer database 12 hours after their termination using credentials they did not return. The company's legal counsel invokes the Computer Fraud and Abuse Act (CFAA) as part of the prosecution strategy. Which of the following is the PRIMARY legal basis for prosecution under the CFAA in this scenario?
+
+- **A)** The employee accessed a protected computer without authorization or exceeded authorized access
+- **B)** The employee violated the company's acceptable use policy (AUP)
+- **C)** The employee committed fraud by stealing customer personally identifiable information (PII)
+- **D)** The employee breached their employment contract after termination
+
+*Think about it before scrolling...*
+
+📌 **Answer: A**
+
+💡 **Tip:** The CFAA (18 U.S.C. § 1030) primarily criminalizes accessing a protected computer "without authorization" or "exceeding authorized access." Once employment terminates, any prior authorization to access company systems is revoked, making subsequent access a violation. Options B and D may be contract or policy violations but are not the primary basis for federal prosecution under the CFAA, and option C describes an outcome but not the legal basis for access.
+
+🔥 **Key Takeaway:** Under the CFAA, authorization to access an employer's systems ends immediately upon termination — any subsequent access is "without authorization" and subject to federal prosecution.
+
+---
+
