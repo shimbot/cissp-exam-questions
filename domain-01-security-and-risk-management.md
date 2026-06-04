@@ -1674,3 +1674,25 @@ An organization's Chief Information Security Officer (CISO) is preparing a risk 
 
 ---
 
+
+## Question #76
+
+**Question:**
+
+A global manufacturing company with operations in the EU, US, and Asia needs to adopt a security framework to guide its information security program. The CISO wants a framework that provides a comprehensive, risk-based approach applicable across all business units, maps to other standards like ISO 27001, and enables benchmarking against peer organizations. Which framework BEST meets these requirements?
+
+- **A)** COBIT — provides governance controls and metrics aligned with business objectives
+- **B)** NIST Cybersecurity Framework (CSF) — offers a risk-based core structure with implementation tiers and profiles
+- **C)** PCI DSS — mandates specific security controls for cardholder data environments
+- **D)** ISO 27002 — provides a detailed implementation guide for ISMS controls
+
+*Think about it before scrolling...*
+
+📌 **Answer: B) NIST Cybersecurity Framework (CSF)**
+
+💡 **Tip:** The NIST CSF is designed to be adaptable across organizations and sectors. It provides a common language for cybersecurity risk management, supports benchmarking via Tiers and Profiles, and maps to many other standards including ISO 27001 and COBIT. COBIT (A) is more focused on IT governance and audit, PCI DSS (C) is payment-card-specific, and ISO 27002 (D) is a control reference — not a comprehensive risk framework for cross-sector benchmarking.
+
+🔥 **Key Takeaway:** The NIST Cybersecurity Framework is the go-to risk-based framework for organizations that need cross-sector applicability, benchmarking capability, and easy mapping to other standards.
+
+---
+
