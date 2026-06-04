@@ -1608,3 +1608,25 @@ A multinational corporation is restructuring its security team and must decide w
 
 ---
 
+
+## Question #73
+
+**Question:**
+
+An organization's security team discovers that a hacker in a foreign country has breached their network and exfiltrated sensitive customer data. The organization wants to pursue legal action but is unsure about international cooperation mechanisms. The company's legal counsel states that both the organization's home country and the attacker's country have ratified the Budapest Convention on Cybercrime. What is the PRIMARY benefit of this treaty in this situation?
+
+- **A)** It requires the attacker's country to prosecute the crime under their own domestic laws and cooperate with cross-border investigations
+- **B)** It creates a single international cybercrime court with jurisdiction over all signatory countries
+- **C)** It mandates that all signatory countries extradite cybercriminals to the victim's country for prosecution
+- **D)** It allows the victim organization to directly submit evidence to law enforcement in the attacker's country without going through local authorities
+
+*Think about it before scrolling...*
+
+📌 **Answer: A**
+
+💡 **Tip:** The Budapest Convention (also known as the Council of Europe Convention on Cybercrime) is the primary international treaty addressing internet and computer crime. It harmonizes national cybercrime laws, establishes common definitions, and creates a framework for cross-border cooperation through mutual legal assistance treaties (MLATs). It does NOT create a supranational court, mandate automatic extradition, or allow victims to bypass local law enforcement channels.
+
+🔥 **Key Takeaway:** The Budapest Convention on Cybercrime enables international cooperation by requiring signatory nations to adopt domestic cybercrime laws and provide mutual legal assistance, but does not create an international court or override national sovereignty over criminal proceedings.
+
+---
+
