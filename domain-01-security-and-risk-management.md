@@ -1652,3 +1652,25 @@ A global financial services firm operates data centers in the United States, Ger
 
 ---
 
+
+## Question #75
+
+**Question:**
+
+An organization's Chief Information Security Officer (CISO) is preparing a risk presentation for the board of directors. To illustrate the potential impact of a ransomware attack, the CISO develops three detailed scenarios: one involving a short-term encryption of non-critical systems, a second targeting critical customer databases with a 72-hour recovery window, and a third combining data exfiltration with public disclosure. Each scenario includes estimated probability ranges and financial impact projections. This approach BEST describes which risk assessment technique?
+
+- **A)** Quantitative risk analysis using ALE/SLE formulas
+- **B)** Scenario analysis with what-if modeling
+- **C)** Delphi technique consensus forecasting
+- **D)** Business Impact Analysis (BIA) for BCP planning
+
+*Think about it before scrolling...*
+
+📌 **Answer: B**
+
+💡 **Tip:** Scenario analysis is a qualitative risk assessment technique that evaluates multiple hypothetical threat scenarios, each with different assumptions about probability and impact. Unlike a single ALE calculation (A), scenario analysis explores a range of possible outcomes. The Delphi technique (C) relies on anonymous expert consensus, not scenario development. A BIA (D) focuses on identifying critical business processes and recovery priorities, not on modeling varied threat scenarios for risk communication.
+
+🔥 **Key Takeaway:** Scenario analysis helps communicate risk to senior leadership by illustrating the range of possible outcomes rather than a single point estimate, making it especially useful for board-level discussions.
+
+---
+
