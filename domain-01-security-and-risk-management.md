@@ -1586,3 +1586,25 @@ A multinational corporation's security team discovers that a recently terminated
 
 ---
 
+
+## Question #72
+
+**Question:**
+
+A multinational corporation is restructuring its security team and must decide whether to centralize, decentralize, or adopt a hybrid approach. The company's European subsidiaries face unique GDPR enforcement risks, while its Asian branches require rapid local incident response. The CISO wants consistent security policies globally but flexibility for regional compliance. Which organizational structure BEST meets these requirements?
+
+- **A)** Fully centralized — all security staff report to corporate headquarters and enforce one global policy
+- **B)** Fully decentralized — each region operates its own independent security team with no central oversight
+- **C)** Hybrid — a central team sets policy and standards while regional teams handle local implementation and compliance
+- **D)** Matrix — security staff report dually to regional management and to the corporate IT director
+
+*Think about it before scrolling...*
+
+📌 **Answer: C**
+
+💡 **Tip:** A hybrid (centralized/decentralized) model gives the organization the best of both worlds: a central security authority ensures consistent governance, policies, and standards across the enterprise, while regional teams adapt those policies to local laws (like GDPR) and respond to incidents quickly without waiting for headquarters.
+
+🔥 **Key Takeaway:** Hybrid security organizational structures balance global policy consistency with local regulatory and operational agility — a critical CISSP governance concept.
+
+---
+
