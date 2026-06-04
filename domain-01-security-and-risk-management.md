@@ -1740,3 +1740,25 @@ As the new CISO for a fast-growing fintech company, you attend a meeting where t
 
 ---
 
+
+## Question #79
+
+**Question:**
+
+An organization is migrating critical data to a cloud service provider. The procurement team is drafting an RFP and asks the security team to help define vendor security requirements. Which of the following is the MOST important contractual requirement the security team should include to ensure ongoing visibility into the provider's security posture?
+
+- **A)** The right to perform periodic on-site audits and review independent SOC 2 Type II reports
+- **B)** A clause mandating the provider use AES-256 encryption for data at rest
+- **C)** A schedule of service credits for any security incidents during the contract term
+- **D)** The provider's agreement to indemnify the organization against all data breaches
+
+*Think about it before scrolling...*
+
+📌 **Answer: A**
+
+💡 **Tip:** While encryption and indemnification are important, contractual audit rights with independent SOC 2/ISO 27001 report access give the organization ongoing, verifiable evidence of the provider's security posture throughout the engagement. SOC 2 Type II reports are especially valuable because they test control effectiveness over time.
+
+🔥 **Key Takeaway:** Always negotiate contractual audit rights and third-party audit report access — not just technical controls — when outsourcing critical services.
+
+---
+
