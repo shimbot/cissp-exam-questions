@@ -1762,3 +1762,25 @@ An organization is migrating critical data to a cloud service provider. The proc
 
 ---
 
+
+## Question #80
+
+**Question:**
+
+A multinational corporation is facing a lawsuit in U.S. federal court. The company's legal counsel has issued a litigation hold notice, but the IT department continues its routine 90-day email purge cycle. Two weeks later, several custodians' mailboxes have been permanently deleted. When defense counsel learns of this, they immediately notify the court. Which legal concept has the company most likely violated?
+
+- **A)** Spoliation of evidence
+- **B)** Chain of custody
+- **C)** Transborder data flow restrictions
+- **D)** Computer Fraud and Abuse Act (CFAA)
+
+*Think about it before scrolling...*
+
+📌 **Answer: A**
+
+💡 **Tip:** Spoliation is the intentional or negligent destruction or alteration of evidence relevant to litigation. Once a litigation hold is issued, all routine data retention and destruction schedules must be suspended for any data that may be relevant to the case. Failure to do so can result in severe sanctions, adverse jury instructions, or even default judgments.
+
+🔥 **Key Takeaway:** When litigation is reasonably anticipated, organizations must immediately halt routine data destruction for potentially relevant records — failure to preserve is spoliation under the Federal Rules of Civil Procedure (FRCP).
+
+---
+
