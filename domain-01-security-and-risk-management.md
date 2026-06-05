@@ -1982,3 +1982,25 @@ A global aerospace manufacturer develops navigation components that appear on th
 
 ---
 
+
+## Question #90
+
+**Question:**
+
+A newly hired CISO is tasked with improving her organization's cybersecurity posture. She chooses the NIST Cybersecurity Framework (CSF) as the guiding model. Which of the NIST CSF core functions BEST describes the process of identifying which systems, data, and capabilities are most critical to the organization's mission before selecting and implementing security controls?
+
+- **A)** Protect
+- **B)** Detect
+- **C)** Identify
+- **D)** Recover
+
+*Think about it before scrolling...*
+
+📌 **Answer: C**
+
+💡 **Tip:** The NIST CSF organizes cybersecurity activities into five core functions: Identify, Protect, Detect, Respond, and Recover. The Identify function is foundational — it requires the organization to develop an organizational understanding of its systems, assets, data, and capabilities to manage cybersecurity risk. You cannot effectively protect what you have not first identified and prioritized.
+
+🔥 **Key Takeaway:** The "Identify" function of the NIST Cybersecurity Framework is the prerequisite step for all other functions, enabling risk-aware prioritization of security resources.
+
+---
+
