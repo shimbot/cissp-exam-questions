@@ -1850,3 +1850,25 @@ A multinational organization is evaluating three different security initiatives 
 
 ---
 
+
+## Question #84
+
+**Question:**
+
+A medium-sized financial services firm recently completed its Business Continuity Plan (BCP) documentation. The CISO wants to validate that all recovery teams can execute their procedures effectively without disrupting live operations. Management requires a test that identifies procedural gaps but avoids any risk of data corruption or service downtime. Which type of BCP test BEST meets these requirements?
+
+- **A)** Full interruption test
+- **B)** Tabletop exercise
+- **C)** Parallel test
+- **D)** Structured walkthrough
+
+*Think about it before scrolling...*
+
+📌 **Answer: C**
+
+💡 **Tip:** A parallel test runs the recovery site in parallel with the primary site, processing real transactions on the alternate systems without affecting live production. This validates procedures, systems, and personnel readiness while preserving a fallback option. Full interruption tests (A) stop live operations and carry real risk. Tabletop exercises (B) are discussion-based, not hands-on. Structured walkthroughs (D) walk through the plan step-by-step but don't execute actual recovery.
+
+🔥 **Key Takeaway:** Parallel testing provides the best balance of hands-on operational validation and risk avoidance when live systems cannot be interrupted.
+
+---
+
