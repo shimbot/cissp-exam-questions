@@ -2026,3 +2026,25 @@ A multinational e-commerce company processes personal data of EU residents. The 
 
 ---
 
+
+## Question #92
+
+**Question:**
+
+A regional bank is updating its continuity of operations plan (COOP). The board requires that key leadership roles be clearly assignable in the event that senior executives are unreachable during a disaster. Which of the following MUST be defined in the COOP to address this requirement?
+
+- **A)** A memorandum of understanding (MOU) with a neighboring bank for shared facilities
+- **B)** An order of succession designating who assumes authority if primary leaders are unavailable
+- **C)** A contingency fuel contract ensuring generators can run for 72 hours
+- **D)** A reciprocal agreement with another financial institution for backup processing
+
+*Think about it before scrolling...*
+
+📌 **Answer: B**
+
+💡 **Tip:** Order of succession is a critical COOP element that ensures uninterrupted leadership and decision-making authority during emergencies. It specifies the chain of command when primary personnel are incapacitated or unreachable. MOUs, fuel contracts, and reciprocal agreements support operations but do not address leadership continuity.
+
+🔥 **Key Takeaway:** Order of succession ensures that command authority transfers seamlessly during a disaster, preventing decision paralysis when key leaders are unavailable.
+
+---
+
