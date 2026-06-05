@@ -1960,3 +1960,25 @@ An organization is implementing a new enterprise resource planning (ERP) system 
 
 ---
 
+
+## Question #89
+
+**Question:**
+
+A global aerospace manufacturer develops navigation components that appear on the United States Munitions List (USML). The company's subsidiary in a foreign country requests access to the technical drawings to support a joint venture. The security team must ensure compliance with applicable laws. Which regulation MOST directly governs the export of this technical data?
+
+- **A)** GDPR Article 44 (Transfer of personal data)
+- **B)** The International Traffic in Arms Regulations (ITAR)
+- **C)** The Sarbanes-Oxley Act (SOX) Section 404
+- **D)** The Computer Fraud and Abuse Act (CFAA)
+
+*Think about it before scrolling...*
+
+📌 **Answer: B**
+
+💡 **Tip:** ITAR controls the export of defense articles, services, and related technical data listed on the USML. Unlike commercial items governed by EAR, ITAR has stricter rules and requires registration with the DDTC. Any release of ITAR-controlled technical data to a foreign person — even within a U.S. company — is considered an export.
+
+🔥 **Key Takeaway:** Data classified on the USML is subject to ITAR, not EAR or privacy regulations, and release to foreign nationals is treated as an export requiring prior authorization.
+
+---
+
