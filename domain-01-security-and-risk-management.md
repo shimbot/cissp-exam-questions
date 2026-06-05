@@ -2092,3 +2092,25 @@ Your organization is undertaking a risk assessment for a new electronic health r
 
 ---
 
+
+## Question #95
+
+**Question:**
+
+Tariq, the CISO of a mid-sized financial firm, is presenting a proposal to the executive board for a new data loss prevention (DLP) system. The CFO asks, "How do you justify spending $500,000 on a system that only reduces risk? We've never had a data breach before." Which concept BEST frames Tariq's response to demonstrate the value of this security investment?
+
+- **A)** The DLP system will ensure the organization achieves 100% compliance with all regulatory requirements
+- **B)** Security investments reduce the likelihood and impact of a potential loss, and the expected benefit is shown through a quantitative cost-benefit analysis comparing ALE with and without the control
+- **C)** Since no breach has occurred, the organization's risk appetite is clearly high enough to accept this risk without additional controls
+- **D)** The organization should wait for a regulatory mandate before investing in preventive controls of this nature
+
+*Think about it before scrolling...*
+
+📌 **Answer: B**
+
+💡 **Tip:** CISSP emphasizes that security is a business enabler. Use quantitative risk analysis: calculate the Annualized Loss Expectancy (ALE) before and after the control, then subtract the control's Annual Cost of Ownership (ACO). A positive net benefit justifies the investment — it speaks the board's language of dollars and ROI.
+
+🔥 **Key Takeaway:** Frame security spending as a business investment by translating risk reduction into monetary terms through quantitative cost-benefit analysis.
+
+---
+
