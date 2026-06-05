@@ -1806,3 +1806,25 @@ A large enterprise has invested heavily in a security awareness training program
 
 ---
 
+
+## Question #82
+
+**Question:**
+
+A large healthcare organization has invested heavily in annual security awareness training, achieving 98% completion rates across all departments. Despite this, the security team's phishing simulation data shows that employee click-through rates on simulated phishing emails have only dropped from 24% to 18% over the past three years. Which of the following BEST explains the discrepancy between training completion and behavior change?
+
+- **A)** The training completion metric is a lagging indicator, while click-through rate is a leading indicator of awareness
+- **B)** Phishing simulations are not an accurate measure of security awareness effectiveness
+- **C)** Completion rates measure participation, not learning retention or behavior adoption — the training likely lacks practical reinforcement
+- **D)** The organization should increase training frequency from annual to quarterly to improve results
+
+*Think about it before scrolling...*
+
+📌 **Answer: C**
+
+💡 **Tip:** Security awareness programs must measure effectiveness beyond completion rates. The Kirkpatrick Model evaluates training at four levels: Reaction, Learning, Behavior, and Results. Completion rates only measure participation (Level 1), while phishing click-through rates measure behavioral change (Level 3). A gap between these indicates the training content or reinforcement strategy needs revision — not just more volume.
+
+🔥 **Key Takeaway:** Completion rates are a vanity metric; true security awareness effectiveness is measured by sustained behavior change through practical application and reinforcement.
+
+---
+

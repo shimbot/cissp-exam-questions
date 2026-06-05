@@ -21,7 +21,7 @@ The **Certified Information Systems Security Professional (CISSP)** is a globall
 
 ## Domains
 
-- **[Domain 1: Security and Risk Management](domain-01-security-and-risk-management.md)** — 81 questions
+- **[Domain 1: Security and Risk Management](domain-01-security-and-risk-management.md)** — 82 questions
 - **[Domain 2: Asset Security](domain-02-asset-security.md)** — 0 questions
 - **[Domain 3: Security Architecture and Engineering](domain-03-security-architecture-and-engineering.md)** — 0 questions
 - **[Domain 4: Communication and Network Security](domain-04-communication-and-network-security.md)** — 0 questions
