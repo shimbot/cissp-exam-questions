@@ -2004,3 +2004,25 @@ A newly hired CISO is tasked with improving her organization's cybersecurity pos
 
 ---
 
+
+## Question #91
+
+**Question:**
+
+A multinational e-commerce company processes personal data of EU residents. The company uses a third-party payment processor that determines how transaction data is handled and stored. Recently, a data breach occurred at the payment processor affecting customer financial data. Under the GDPR, which of the following BEST describes the relationship and liability between the e-commerce company and the payment processor?
+
+- **A)** The e-commerce company is the data processor and bears all liability since they own the customer relationship
+- **B)** The payment processor is a joint data controller and shares equal liability with the company
+- **C)** The e-commerce company is the data controller and the payment processor is the data processor; the company must ensure the processor has adequate safeguards
+- **D)** The payment processor is the sole data controller since they determine the processing methods, relieving the company of liability
+
+*Think about it before scrolling...*
+
+📌 **Answer: C**
+
+💡 **Tip:** Under the GDPR, the data controller (the entity that determines the purposes and means of processing) is ultimately responsible for ensuring that any third-party data processors implement appropriate technical and organizational measures. The controller must have a written contract with the processor and conduct due diligence on their safeguards.
+
+🔥 **Key Takeaway:** The data controller retains primary liability under GDPR and must contractually bind and verify that data processors maintain adequate security measures.
+
+---
+
