@@ -1916,3 +1916,25 @@ A multinational corporation is restructuring its information security governance
 
 ---
 
+
+## Question #87
+
+**Question:**
+
+An organization that handles federal government data has decided to adopt the NIST Risk Management Framework (RMF) to standardize its security processes. The CISO has directed the security team to begin by categorizing the information system and its data based on impact levels for confidentiality, integrity, and availability. According to the NIST RMF process, which step includes this categorization activity, and which step immediately follows it?
+
+- **A)** Step 1: Prepare; Step 2: Categorize  
+- **B)** Step 1: Categorize; Step 2: Select  
+- **C)** Step 1: Categorize; Step 2: Implement  
+- **D)** Step 1: Categorize; Step 2: Assess  
+
+*Think about it before scrolling...*
+
+📌 **Answer: B**
+
+💡 **Tip:** The NIST RMF (SP 800-37 Rev. 2) has seven steps: Prepare → Categorize → Select → Implement → Assess → Authorize → Monitor. Categorizing the system (Step 1, after Prepare) determines the initial baseline of security controls, which are then selected (Step 2) based on that categorization. Implement (Step 3) comes after Select, making option C incorrect.
+
+🔥 **Key Takeaway:** The NIST RMF follows a logical sequence: first categorize the system's impact level, then select appropriate controls from the baseline determined by that categorization.
+
+---
+
