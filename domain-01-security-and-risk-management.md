@@ -1894,3 +1894,25 @@ An organization has implemented an ISO 27001-compliant ISMS and passed its certi
 
 ---
 
+
+## Question #86
+
+**Question:**
+
+A multinational corporation is restructuring its information security governance. The CISO reports directly to the CEO, and a board-level risk committee reviews security metrics quarterly. The CISO's team drafts security policies that are approved by the board and implemented as mandatory standards across all business units. This structure BEST exemplifies which security governance principle?
+
+- **A)** Decentralized security management with advisory oversight
+- **B)** Centralized security governance with top-down authority
+- **C)** Hybrid security model with distributed policy enforcement
+- **D)** Committee-based security with peer-reviewed standards
+
+*Think about it before scrolling...*
+
+📌 **Answer: B**
+
+💡 **Tip:** Centralized security governance means a central authority (the CISO's team) creates and enforces policy uniformly across the organization, with direct board-level visibility and support. This structure ensures consistency, strong executive sponsorship, and clear accountability — key traits of effective security governance.
+
+🔥 **Key Takeaway:** Centralized governance with top-down authority from board to CISO ensures uniform policy enforcement, clear accountability, and strong strategic alignment.
+
+---
+
