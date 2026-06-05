@@ -2048,3 +2048,25 @@ A regional bank is updating its continuity of operations plan (COOP). The board 
 
 ---
 
+
+## Question #93
+
+**Question:**
+
+A security manager is presenting the quarterly security program update to the board of directors. The board members have limited technical knowledge and want to understand whether the organization's security posture is improving. Which type of metric would BEST communicate the effectiveness of the security program to this audience?
+
+- **A)** Number of IDS/IPS alerts generated per day
+- **B)** Mean time to detect (MTTD) and mean time to respond (MTTR) to security incidents
+- **C)** Percentage of systems with the latest antivirus signatures installed
+- **D)** Total number of vulnerabilities identified in the latest quarterly scan
+
+*Think about it before scrolling...*
+
+📌 **Answer: B**
+
+💡 **Tip:** Board-level reporting must focus on business-relevant, risk-based metrics. MTTD and MTTR are strategic metrics that convey operational effectiveness without requiring technical depth — they tell the board how quickly the organization detects and responds to threats, which directly reflects security program maturity.
+
+🔥 **Key Takeaway:** Security metrics for executive audiences should emphasize risk reduction and operational effectiveness (e.g., MTTD, MTTR, patching cadence) rather than raw technical counts that lack business context.
+
+---
+
