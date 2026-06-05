@@ -1784,3 +1784,25 @@ A multinational corporation is facing a lawsuit in U.S. federal court. The compa
 
 ---
 
+
+## Question #81
+
+**Question:**
+
+A large enterprise has invested heavily in a security awareness training program over the past year. The CISO wants to evaluate whether the program has actually changed employee behavior and reduced risk. Which of the following metrics would BEST demonstrate the effectiveness of the awareness program?
+
+- **A)** Percentage of employees who completed the annual training module.
+- **B)** Number of phishing simulation clicks decreased by 40% compared to the previous year.
+- **C)** Employee satisfaction scores from the post-training survey averaged 8.5 out of 10.
+- **D)** The annual security training budget was fully expended.
+
+*Think about it before scrolling...*
+
+📌 **Answer: B**
+
+💡 **Tip:** Completion rates and satisfaction surveys measure activity and perception, not behavior change. A reduction in phishing simulation clicks is a direct behavioral metric that demonstrates whether employees are applying what they learned — which is the true measure of security awareness effectiveness.
+
+🔥 **Key Takeaway:** Effective security awareness programs must be measured by behavioral outcomes (reduced incidents, improved detection rates), not just completion rates or satisfaction scores.
+
+---
+
