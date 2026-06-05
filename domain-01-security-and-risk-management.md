@@ -1828,3 +1828,25 @@ A large healthcare organization has invested heavily in annual security awarenes
 
 ---
 
+
+## Question #83
+
+**Question:**
+
+A multinational organization is evaluating three different security initiatives for the upcoming fiscal year. Initiative A addresses a critical vulnerability with an estimated annualized loss expectancy (ALE) of $1.2M and costs $400K per year. Initiative B addresses a compliance mandate with a potential fine of $500K and costs $200K. Initiative C provides incremental defense-in-depth improvements with no direct risk reduction metric but is favored by the security team. The security steering committee has a fixed budget. Which approach BEST represents the governance principles the committee should apply?
+
+- **A)** Select Initiative C because the security team is the subject matter expert
+- **B)** Select all three initiatives to maximize security posture regardless of cost
+- **C**) Prioritize based on cost-benefit analysis, selecting Initiative A first, followed by B if budget remains, and C only if funding allows
+- **D)** Defer all decisions to the next quarter to conduct additional analysis on all three
+
+*Think about it before scrolling...*
+
+📌 **Answer: C**
+
+💡 **Tip:** Security governance requires aligning resource allocation with business risk. A cost-benefit comparison (ALE reduction vs. implementation cost = value) helps prioritize where each dollar delivers the greatest risk reduction. Initiative A delivers $800K net benefit ($1.2M - $400K), Initiative B delivers $300K net, while C has unquantified benefit. Good governance principles demand objective, risk-based prioritization.
+
+🔥 **Key Takeaway:** Security governance uses objective risk metrics and cost-benefit analysis to allocate limited resources where they deliver the greatest risk reduction.
+
+---
+
