@@ -2070,3 +2070,25 @@ A security manager is presenting the quarterly security program update to the bo
 
 ---
 
+
+## Question #94
+
+**Question:**
+
+Your organization is undertaking a risk assessment for a new electronic health records system. The security team is evaluating threats using a facilitated, workshop-based approach where business process owners collaboratively identify risks, assess their likelihood and impact through discussion, and prioritize mitigation actions — all without reliance on complex quantitative calculations. Which risk assessment methodology BEST describes this approach?
+
+- **A)** OCTAVE (Operationally Critical Threat, Asset, and Vulnerability Evaluation)
+- **B)** FRAP (Facilitated Risk Analysis Process)
+- **C)** AS/NZS 4360 Standard
+- **D)** ISO 31000:2018 Risk Management Framework
+
+*Think about it before scrolling...*
+
+📌 **Answer: B**
+
+💡 **Tip:** FRAP is a streamlined, qualitative, workshop-based risk assessment method designed for quick identification and prioritization of risks through facilitated sessions with stakeholders. Unlike OCTAVE (which is broader and more structured) or formal standards like AS/NZS 4360 and ISO 31000 (which are overarching frameworks, not specific methodologies), FRAP focuses on targeted, collaborative workshops to assess risks rapidly.
+
+🔥 **Key Takeaway:** FRAP is the go-to facilitated workshop approach for rapid qualitative risk assessment — think "focused stakeholder workshop" to distinguish it from broader frameworks.
+
+---
+
