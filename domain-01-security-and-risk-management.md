@@ -1872,3 +1872,25 @@ A medium-sized financial services firm recently completed its Business Continuit
 
 ---
 
+
+## Question #85
+
+**Question:**
+
+An organization has implemented an ISO 27001-compliant ISMS and passed its certification audit. Six months later, a new vulnerability emerges that affects several critical systems. The security manager updates the risk treatment plan and implements new controls, but the updated controls are not reflected in the ISMS documentation or reviewed during management review. Which fundamental principle of security governance has been violated?
+
+- **A)** Separation of duties
+- **B)** The Plan-Do-Check-Act (PDCA) continuous improvement cycle
+- **C)** Due diligence
+- **D)** Defense in depth
+
+*Think about it before scrolling...*
+
+📌 **Answer: B**
+
+💡 **Tip:** The PDCA (Plan-Do-Check-Act) cycle is the engine of continuous improvement in an ISMS. ISO 27001 requires organizations to regularly review, update, and improve their security management system—not just at certification time. When controls are changed without updating documentation and reviewing effectiveness, the "Check" and "Act" phases are skipped.
+
+🔥 **Key Takeaway:** Security governance is not a "set and forget" exercise; the PDCA cycle ensures the ISMS remains current and effective against evolving threats.
+
+---
+
