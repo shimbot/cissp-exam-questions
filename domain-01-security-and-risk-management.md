@@ -1938,3 +1938,25 @@ An organization that handles federal government data has decided to adopt the NI
 
 ---
 
+
+## Question #88
+
+**Question:**
+
+An organization is implementing a new enterprise resource planning (ERP) system and must ensure that the security controls are properly validated before production deployment. The CISO has asked the security team to evaluate whether the implemented controls meet the baseline requirements specified in the organization's security policy and to document any needed adjustments. Which of the following is the BEST approach to fulfill this requirement?
+
+- **A)** Perform a penetration test against the ERP system to identify exploitable vulnerabilities
+- **B)** Execute a business impact analysis (BIA) to determine criticality of ERP data
+- **C)** Conduct a security control assessment (SCA) comparing implemented controls to the baseline and document findings in a plan of action and milestones (POA&M)
+- **D)** Run a vulnerability scanner on the ERP infrastructure to identify missing patches
+
+*Think about it before scrolling...*
+
+📌 **Answer: C**
+
+💡 **Tip:** A security control assessment (SCA) is the systematic evaluation of implemented security controls against a defined baseline. Under NIST RMF and FISMA, the SCA is Step 4 ("Assess") and results feed into a Plan of Action and Milestones (POA&M) for tracking remediation. Penetration tests and vulnerability scans are narrower — they test specific weaknesses but don't comprehensively evaluate control implementation against policy baselines.
+
+🔥 **Key Takeaway:** Security control assessment validates that controls meet baseline requirements, with POA&M used to track and remediate control deficiencies.
+
+---
+
