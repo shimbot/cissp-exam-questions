@@ -2378,3 +2378,25 @@ An organization deploys an AI-driven resume screening system to assist with hiri
 
 ---
 
+
+## Question #108
+
+**Question:**
+
+Your organization is merging with a smaller competitor whose security posture is unknown. The integration team plans to migrate all legacy systems from the acquired company onto your corporate network within 30 days to meet revenue targets. The CISO is concerned about introducing unknown risks. Which of the following should be the CISO's PRIMARY recommendation to the executive steering committee?
+
+- **A)** Require the acquired company's systems to be isolated in a segmented network zone until a complete risk assessment and remediation plan is executed
+- **B)** Approve a full penetration test of the acquired company's systems, but allow the migration to proceed in parallel to avoid schedule delays
+- **C)** Deploy endpoint detection and response (EDR) agents on all acquired systems once they are connected to the corporate network
+- **D)** Purchase cyber insurance to transfer the financial risk of any potential breach that may occur during the integration
+
+*Think about it before scrolling...*
+
+📌 **Answer: A**
+
+💡 **Tip:** During mergers and acquisitions (M&A), assuming the risk posture of an unknown entity is dangerous. The secure approach is network isolation combined with a formal risk assessment and remediation before integration. Parallel work without isolation (B), reactive-only controls like EDR (C), and risk transfer via insurance (D) all fail to address the immediate uncontrolled exposure — the acquired systems must be treated as untrusted until proven otherwise.
+
+🔥 **Key Takeaway:** In M&A scenarios, always isolate acquired systems from production networks until a thorough security assessment and remediation plan have been completed — risk transfer alone is not a substitute for proper due diligence.
+
+---
+
