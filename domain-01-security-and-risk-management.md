@@ -2202,3 +2202,25 @@ A security manager discovers that several of the organization's security policie
 
 ---
 
+
+## Question #100
+
+**Question:**
+
+A bank has a fully equipped alternate facility with computers, cabling, and climate control pre-installed, but staff must bring their own backup tapes and call the telecommunications provider to activate data circuits during a disaster. This facility BEST describes which type of recovery site?
+
+- **A)** Cold site
+- **B)** Warm site
+- **C)** Hot site
+- **D)** Mobile site
+
+*Think about it before scrolling...*
+
+📌 **Answer: B**
+
+💡 **Tip:** Recovery sites exist on a spectrum from cold (empty shell) to hot (fully mirrored and ready). A warm site has hardware and infrastructure staged but requires personnel to perform activation steps — loading data, restoring from backup, and arranging connectivity. The key distinction: a hot site runs continuously in sync; a warm site needs manual activation but has equipment ready.
+
+🔥 **Key Takeaway:** Know the three recovery site types — cold (nothing but space), warm (equipment ready, needs data/activation), hot (fully operational and synchronized).
+
+---
+
