@@ -2312,3 +2312,25 @@ A newly hired CISO at a mid-sized financial firm has developed a comprehensive s
 
 ---
 
+
+## Question #105
+
+**Question:**
+
+A multinational organization is implementing an ISMS aligned with ISO 27001. The CISO proposes creating detailed security policies and technical controls, but the board of directors has not formally approved the information security policy or assigned an owner for risk management. According to ISO 27001:2022, which of the following is the MOST critical gap in this approach?
+
+- **A)** The technical controls cannot be implemented until all policies are written and approved
+- **B)** Clause 5.1 requires top management to demonstrate leadership and commitment by approving the policy and ensuring resources are allocated
+- **C)** The organization must first conduct a full business impact analysis before establishing the ISMS scope
+- **D)** ISO 27001 requires the CISO to personally approve all security policies on behalf of the board
+
+*Think about it before scrolling...*
+
+📌 **Answer: B**
+
+💡 **Tip:** ISO 27001 Clause 5.1 (Leadership) mandates that top management — not just security staff — must demonstrate active commitment by approving policy, assigning roles, and ensuring resources. Without this top-down governance, the ISMS lacks organizational authority.
+
+🔥 **Key Takeaway:** Security governance requires visible leadership commitment from top management, not just technical or operational action from the security team.
+
+---
+
