@@ -2114,3 +2114,25 @@ Tariq, the CISO of a mid-sized financial firm, is presenting a proposal to the e
 
 ---
 
+
+## Question #96
+
+**Question:**
+
+An organization's Chief Information Security Officer (CISO) presents a risk register to the executive steering committee. Several high-impact risks have been identified where the cost of mitigation exceeds the potential loss. The committee wants to formally accept these risks. Which of the following represents the MOST appropriate next step?
+
+- **A)** The CISO should document the acceptance decision, obtain a signed risk acceptance form from the accountable executive, and schedule periodic reassessment of each accepted risk.
+- **B)** The CISO should reject the committee's acceptance and escalate to the Board of Directors for a final security decision.
+- **C)** The committee's verbal consensus during the meeting constitutes sufficient acceptance under the organization's risk management framework.
+- **D)** The organization should immediately purchase cyber insurance to transfer all accepted risks before documenting the decision.
+
+*Think about it before scrolling...*
+
+📌 **Answer: A**
+
+💡 **Tip:** Risk acceptance is not a "set and forget" activity. Formal documentation with sign-off from the risk owner (typically a business executive who controls the budget) is critical for audit trails and accountability. Accepted risks should be tracked in the risk register and periodically reassessed because business conditions, threat landscapes, and asset values change over time. Verbal approval lacks the audit trail required by most governance frameworks.
+
+🔥 **Key Takeaway:** Formal, documented risk acceptance with owner sign-off and periodic reassessment ensures accountability, auditability, and appropriate governance of residual risks.
+
+---
+
