@@ -2136,3 +2136,25 @@ An organization's Chief Information Security Officer (CISO) presents a risk regi
 
 ---
 
+
+## Question #97
+
+**Question:**
+
+A multinational corporation is designing its security architecture and decides to implement multiple overlapping layers of protection: firewalls at the perimeter, host-based IDS on servers, application whitelisting on endpoints, encryption of data at rest and in transit, and mandatory security awareness training for all employees. The security architect states this approach ensures that if one control fails, others still provide protection. Which security principle BEST describes this strategy?
+
+- **A)** Defense in depth
+- **B)** Separation of duties
+- **C)** Least privilege
+- **D)** Fail secure
+
+*Think about it before scrolling...*
+
+📌 **Answer: A**
+
+💡 **Tip:** Defense in depth (also called layered security) uses multiple, overlapping controls so that the failure or bypass of any single control does not compromise the overall security posture. Each layer addresses different threat vectors and provides redundancy. This is a foundational principle that the CISSP exam expects you to distinguish from other principles like least privilege (granting minimum access) or separation of duties (dividing critical tasks among multiple people).
+
+🔥 **Key Takeaway:** Defense in depth is the strategic layering of heterogeneous security controls to provide redundancy and resilience — no single point of failure should be able to compromise the entire system.
+
+---
+
