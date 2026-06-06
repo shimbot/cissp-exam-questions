@@ -2158,3 +2158,25 @@ A multinational corporation is designing its security architecture and decides t
 
 ---
 
+
+## Question #98
+
+**Question:**
+
+A security architect is designing access controls for a legacy manufacturing control system that cannot be patched or updated. The architect implements a network firewall to block unauthorized traffic, a security guard at the control room entrance, a video surveillance system that records all activity, and a separate read-only log server that alerts when anomalies are detected. To reduce residual risk, the organization also adds compensating controls by requiring two-person integrity for all manual overrides. Which combination of security control types is represented in this scenario?
+
+- **A)** Technical — Firewall; Physical — Security guard; Administrative — Video surveillance; Compensating — Two-person integrity
+- **B)** Technical — Firewall; Physical — Security guard and video surveillance; Detective — Log server alerting; Compensating — Two-person integrity
+- **C)** Deterrent — Security guard; Preventive — Firewall; Detective — Log server alerting; Compensating — Two-person integrity
+- **D)** Preventive — Firewall and security guard; Detective — Video surveillance; Compensating — Two-person integrity; Deterrent — Log server
+
+*Think about it before scrolling...*
+
+📌 **Answer: C**
+
+💡 **Tip:** Security controls are classified by function: **Preventive** stops incidents (firewall blocks traffic), **Deterrent** discourages violations (security guard presence), **Detective** identifies incidents in progress/after (log alerts), **Compensating** provides an alternative when primary controls are infeasible (two-person integrity for legacy unpatched systems). Video surveillance is physical/detective, not an "administrative" control.
+
+🔥 **Key Takeaway:** Understand the six functional control types (Preventive, Deterrent, Detective, Corrective, Recovery, Compensating) and be able to map real-world examples to each category — this is a high-yield CISSP concept.
+
+---
+
