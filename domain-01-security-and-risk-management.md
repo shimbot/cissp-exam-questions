@@ -2246,3 +2246,25 @@ A security manager is revamping the organization's annual security awareness pro
 
 ---
 
+
+## Question #102
+
+**Question:**
+
+The CISO of a mid-sized financial firm is preparing the annual security budget proposal for the board of directors. The board wants a clear business justification for a proposed $500,000 investment in a new endpoint detection and response (EDR) platform. Which metric would BEST demonstrate the financial value of this security investment to the board?
+
+- **A)** Mean Time to Detect (MTTD) improvement from 120 days to 14 days
+- **B)** Return on Security Investment (ROSI) calculated as (ALE before - ALE after - cost of control) / cost of control
+- **C)** A list of all CVSS 9+ vulnerabilities the EDR would address
+- **D)** Number of security alerts generated per month by the EDR platform
+
+*Think about it before scrolling...*
+
+📌 **Answer: B**
+
+💡 **Tip:** The board speaks the language of business—ROI. Return on Security Investment (ROSI) translates security spending into financial terms by comparing the reduction in Annualized Loss Expectancy (ALE) against the cost of the control. Technical metrics like MTTD or CVSS scores are important for security operations but do not directly communicate business value to non-technical executives. ROSI = (ALE_prev - ALE_post - Cost) / Cost.
+
+🔥 **Key Takeaway:** Always present security investments to the board in business/financial terms—use ROSI and ALE to show value, not technical vulnerability scores.
+
+---
+
