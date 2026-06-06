@@ -2290,3 +2290,25 @@ A US-based multinational e-commerce company collects personal data from customer
 
 ---
 
+
+## Question #104
+
+**Question:**
+
+A newly hired CISO at a mid-sized financial firm has developed a comprehensive security roadmap with new technical controls, awareness programs, and updated policies. However, department heads are resisting the changes, viewing security as an obstacle to business operations. The CEO has asked the CISO to explain why the security program needs to move forward. Which approach BEST demonstrates the value of the security initiative to gain executive and departmental buy-in?
+
+- **A)** Mandate compliance by issuing a memo from the CISO's office requiring all departments to implement the controls within 60 days
+- **B)** Present a risk-based business case that maps security investments to specific business risks, regulatory obligations, and potential financial impact of security incidents
+- **C)** Escalate the resistance to the board of directors and request that non-compliant department heads be placed on performance improvement plans
+- **D)** Offer each department head the option to opt out of security controls they find burdensome, maintaining only the mandated regulatory minimums
+
+*Think about it before scrolling...*
+
+📌 **Answer: B**
+
+💡 **Tip:** The CISO must act as a business enabler, not a bottleneck. Presenting a risk-based business case that translates security needs into business language (revenue, reputation, regulatory fines) is the most effective way to gain executive buy-in. Mandating compliance without explanation (A) breeds resentment, escalation (C) bypasses collaborative governance, and offering opt-outs (D) undermines the entire security program.
+
+🔥 **Key Takeaway:** Security leaders must communicate in business terms to secure executive sponsorship — a risk-based business case aligns security investments with organizational objectives and regulatory requirements.
+
+---
+
