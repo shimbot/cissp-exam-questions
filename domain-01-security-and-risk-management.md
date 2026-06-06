@@ -2224,3 +2224,25 @@ A bank has a fully equipped alternate facility with computers, cabling, and clim
 
 ---
 
+
+## Question #101
+
+**Question:**
+
+A security manager is revamping the organization's annual security awareness program. Past training saw low completion rates, and employees complained that the content was dry and irrelevant. The manager wants to improve engagement, knowledge retention, and measurable behavior change. Which combination of approaches BEST addresses these objectives?
+
+- **A)** Mandatory computer-based training (CBT) modules with a final multiple-choice exam, tracked for HR compliance
+- **B)** A one-time instructor-led seminar with live demonstrations of phishing attacks, followed by a Q&A session
+- **C)** Short monthly micro-learning modules with real-world scenarios, gamified challenges, and simulated phishing exercises with tailored coaching
+- **D)** Distributing a printed security handbook to all employees, with a signed acknowledgment form collected by each department
+
+*Think about it before scrolling...*
+
+📌 **Answer: C**
+
+💡 **Tip:** Effective security awareness programs use varied, engaging delivery methods to reach different learning styles. Micro-learning (short, focused sessions), gamification (points, badges, leaderboards), and hands-on simulated phishing with immediate feedback improve retention and drive lasting behavior change far better than one-size-fits-all annual CBT or passive materials.
+
+🔥 **Key Takeaway:** A modern security awareness program should be continuous, engaging, and behavior-focused — not just a once-a-year compliance checkbox.
+
+---
+
