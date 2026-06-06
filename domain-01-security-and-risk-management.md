@@ -2180,3 +2180,25 @@ A security architect is designing access controls for a legacy manufacturing con
 
 ---
 
+
+## Question #99
+
+**Question:**
+
+A security manager discovers that several of the organization's security policies have not been updated in three years and still reference outdated technology standards. Some policies were never formally approved by leadership, and there is no scheduled review cycle for any policy document. Which of the following would BEST address this situation?
+
+- **A)** Replacing all outdated policies with new technical standards documents
+- **B)** Establishing a policy lifecycle management program with defined review, approval, and retirement processes
+- **C)** Issuing a memo requiring all employees to follow the current policies as written
+- **D)** Creating one comprehensive security policy to replace all existing fragmented documents
+
+*Think about it before scrolling...*
+
+📌 **Answer: B**
+
+💡 **Tip:** A policy lifecycle includes creation, review, approval, publication, awareness training, periodic review, and eventual retirement. Without a formal lifecycle process, policies quickly become stale, misaligned with business needs, and lose enforcement credibility. CISSP emphasizes that policies must have scheduled reviews (typically annually) and governance oversight.
+
+🔥 **Key Takeaway:** Security policies are living documents—without a structured lifecycle management process, they lose relevance and fail to provide effective governance.
+
+---
+
