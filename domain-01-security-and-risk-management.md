@@ -2334,3 +2334,25 @@ A multinational organization is implementing an ISMS aligned with ISO 27001. The
 
 ---
 
+
+## Question #106
+
+**Question:**
+
+A multinational corporation is expanding its operations into three new countries. The CISO presents a security strategic plan to the board of directors that maps security initiatives directly to the organization's growth objectives, revenue targets, and risk appetite. The CIO objects, arguing that security should be managed as a standalone cost center focused purely on technical controls. Which principle BEST supports the CISO's approach?
+
+- **A)** Security should operate independently to avoid bias in risk decisions
+- **B)** Security governance requires alignment of security strategy with business goals and objectives
+- **C)** The board must approve all security expenditures exceeding $100,000
+- **D)** Technical controls are the primary determinant of security program success
+
+*Think about it before scrolling...*
+
+📌 **Answer: B**
+
+💡 **Tip:** Security governance is not just about controls — it's about ensuring the security program is strategically aligned with business objectives. ISC2 emphasizes that security must enable business goals, not operate in isolation. The CISO's plan that maps to revenue and growth is correct governance.
+
+🔥 **Key Takeaway:** Security governance requires strategic alignment — security programs must support and enable business objectives, not operate as a disconnected cost center.
+
+---
+
