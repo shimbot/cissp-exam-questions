@@ -2268,3 +2268,25 @@ The CISO of a mid-sized financial firm is preparing the annual security budget p
 
 ---
 
+
+## Question #103
+
+**Question:**
+
+A US-based multinational e-commerce company collects personal data from customers across the EU through its website. The company has no physical office or employees in any EU member state, but it actively targets EU customers by offering prices in euros and providing shipping to EU addresses. Under GDPR Article 3, which assertion BEST describes the company's obligation?
+
+- **A)** The company has no GDPR obligations because it has no establishment in the EU
+- **B)** The company must comply with GDPR because it processes personal data of EU data subjects in connection with offering goods or services to them, regardless of establishment
+- **C)** The company only needs to comply with GDPR if it processes more than 5,000 EU customer records per year
+- **D)** The company must appoint an EU-based representative only if it processes special categories of data
+
+*Think about it before scrolling...*
+
+📌 **Answer: B**
+
+💡 **Tip:** GDPR Article 3(2) establishes extraterritorial scope — any organization outside the EU that offers goods/services to (or monitors the behavior of) EU data subjects must comply. Pricing in euros, local language, and EU shipping are clear targeting indicators. A data protection representative in the EU is required under Article 27 regardless of data type.
+
+🔥 **Key Takeaway:** GDPR applies extraterritorially — if you target EU customers with goods/services, you must comply even without any physical presence in the EU.
+
+---
+
