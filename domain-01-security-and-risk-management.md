@@ -2356,3 +2356,25 @@ A multinational corporation is expanding its operations into three new countries
 
 ---
 
+
+## Question #107
+
+**Question:**
+
+An organization deploys an AI-driven resume screening system to assist with hiring decisions. The system was trained on historical hiring data that reflected past biases, and it inadvertently filters out candidates from certain demographic groups. The CISO is asked whether the security team should be involved. Under Security and Risk Management principles, which is the MOST appropriate response?
+
+- **A)** Decline involvement since AI bias is an HR compliance issue, not a security concern
+- **B)** Advise that AI governance falls under the IT operations team and requires no security oversight
+- **C)** Recommend that the AI system be included in the organization's risk management framework, with assessments for fairness, transparency, and regulatory compliance as part of the enterprise risk posture
+- **D)** Require immediate shutdown of the system until a full penetration test is completed
+
+*Think about it before scrolling...*
+
+📌 **Answer: C**
+
+💡 **Tip:** CISSP Domain 1 requires security professionals to view risk holistically. AI decision-making systems introduce legal, ethical, and regulatory risk (non-discrimination, privacy, transparency) that must be managed through the enterprise risk management framework. The principle of "security as an enabler" means helping the business operate safely, not blocking innovation arbitrarily.
+
+🔥 **Key Takeaway:** Security governance extends to all systems that create organizational risk — including AI/ML tools — and must be addressed through risk management, not avoided or relegated solely to HR or IT.
+
+---
+
