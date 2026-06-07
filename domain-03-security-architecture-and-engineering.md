@@ -138,3 +138,25 @@ A security architect is designing access controls for a critical financial appli
 
 ---
 
+
+## Question #7
+
+**Question:**
+
+A security architect is designing an access control system for a distributed application where subjects directly hold unforgeable tokens that grant specific privileges to objects (e.g., a user's ticket granting read access to FileA and write access to FileB). The architect needs to ensure the system supports least privilege by allowing subjects to present only the specific tokens needed for each operation. Which access control model is BEST suited for this design?
+
+- **A)** Role-Based Access Control (RBAC)
+- **B)** Discretionary Access Control (DAC)
+- **C)** Capability-based access control
+- **D)** Mandatory Access Control (MAC)
+
+*Think about it before scrolling...*
+
+📌 **Answer: C**
+
+💡 **Tip:** A capability-based system uses unforgeable tokens (capabilities) that a subject holds to directly access objects. Unlike ACL-based models where the system checks a list on the object, capability-based access control puts control in the hands of the subject and naturally supports least privilege — the subject presents only the capabilities needed. This is a key differentiator from RBAC (role-based), DAC (owner-controlled), and MAC (system-enforced labels).
+
+🔥 **Key Takeaway:** Capability-based access control uses subject-held, unforgeable tokens granting specific object privileges, enabling fine-grained least privilege by default.
+
+---
+
