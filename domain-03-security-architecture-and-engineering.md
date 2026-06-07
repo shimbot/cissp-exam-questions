@@ -50,3 +50,25 @@ A security architect is designing a new centralized authentication service for a
 
 ---
 
+
+## Question #3
+
+**Question:**
+
+A security architect is evaluating trusted platform module (TPM) technology for a new fleet of laptops used by employees handling classified data. Which PRIMARY purpose does a TPM serve in this scenario?
+
+- **A)** It encrypts the entire hard drive using hardware-based AES-256 encryption
+- **B)** It provides a hardware root of trust for securely storing cryptographic keys and attesting platform integrity
+- **C)** It acts as a hardware firewall blocking unauthorized network connections at boot time
+- **D)** It virtualizes the operating system to create isolated secure enclaves for sensitive applications
+
+*Think about it before scrolling...*
+
+📌 **Answer: B**
+
+💡 **Tip:** The TPM is a dedicated microcontroller that securely stores cryptographic keys (e.g., BitLocker keys) and performs platform integrity measurements (boot attestation) by hashing firmware/OS components. While it can be used with full-disk encryption, the TPM itself does not perform the encryption — it secures the keys.
+
+🔥 **Key Takeaway:** A TPM's fundamental role is hardware-anchored trust — it protects keys from software-based attacks and verifies that the system hasn't been tampered with during boot.
+
+---
+
