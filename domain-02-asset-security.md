@@ -94,3 +94,25 @@ A financial services company is migrating its legacy application data to a new c
 
 ---
 
+
+## Question #5
+
+**Question:**
+
+A multinational corporation collects personal data from users across the EU. The CISO wants to ensure privacy is embedded into every stage of system development — from requirements gathering through deployment and eventual decommissioning. The privacy team recommends a proactive approach that considers privacy risks before they materialize. Which privacy framework principle does this BEST describe?
+
+- **A)** Data minimization — collect only what is strictly necessary
+- **B)** Privacy by design — integrating privacy controls into system architecture from the outset
+- **C)** Purpose limitation — using data only for the specified purpose
+- **D)** Accountability — demonstrating compliance through documentation
+
+*Think about it before scrolling...*
+
+📌 **Answer: B**
+
+💡 **Tip:** Privacy by design (PbD) is a proactive framework requiring privacy considerations to be embedded into systems and processes from the initial design stage, not bolted on afterward. It's a foundational requirement under GDPR Article 25.
+
+🔥 **Key Takeaway:** Privacy by design means building privacy into systems proactively — it's not an afterthought or a checkbox.
+
+---
+
