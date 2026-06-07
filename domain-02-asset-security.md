@@ -182,3 +182,25 @@ An organization uses Microsoft Azure Information Protection (AIP) to classify an
 
 ---
 
+
+## Question #9
+
+**Question:**
+
+A security architect is designing an access control policy for a healthcare organization's electronic health record (EHR) system. The organization requires that data can be labeled with sensitivity levels (e.g., Public, Internal, Confidential, Restricted) and that users can only access records based on their clearance level and formal need-to-know. Which access control model BEST meets these requirements?
+
+- **A)** Discretionary Access Control (DAC)
+- **B)** Role-Based Access Control (RBAC)
+- **C)** Mandatory Access Control (MAC)
+- **D)** Attribute-Based Access Control (ABAC)
+
+*Think about it before scrolling...*
+
+📌 **Answer: C**
+
+💡 **Tip:** MAC uses security labels (classifications) assigned to both subjects and objects, enforced by the system — not the data owner. This is critical in environments like military or healthcare where label-based access is legally required.
+
+🔥 **Key Takeaway:** MAC enforces access based on system-assigned classification labels and clearance levels, preventing users from overriding security policies.
+
+---
+
