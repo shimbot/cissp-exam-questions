@@ -72,3 +72,25 @@ A security architect is designing a data governance program for a multinational 
 
 ---
 
+
+## Question #4
+
+**Question:**
+
+A financial services company is migrating its legacy application data to a new cloud-based platform. As part of the migration, the CISO requires data that has exceeded its legally mandated retention period to be permanently destroyed from the legacy systems. During the disposal process, an auditor discovers that some magnetic tapes containing client financial records were sent to a third-party shredding vendor without a chain-of-custody log or verification of destruction. Which of the following concepts was MOST directly violated?
+
+- **A)** Data classification
+- **B)** Data remanence
+- **C)** Data ownership
+- **D)** Data retention and disposal
+
+*Think about it before scrolling...*
+
+📌 **Answer: D**
+
+💡 **Tip:** Data retention and disposal policies must define not just how long data is kept, but also the secure destruction methods and verification procedures. Chain-of-custody documentation is critical when third-party vendors handle media destruction.
+
+🔥 **Key Takeaway:** A proper data disposal policy includes documented methods, chain-of-custody tracking, and verification of destruction (such as certificates of destruction).
+
+---
+
