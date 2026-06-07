@@ -72,3 +72,25 @@ A security architect is evaluating trusted platform module (TPM) technology for 
 
 ---
 
+
+## Question #4
+
+**Question:**
+
+A security architect is selecting an evaluation standard for a new government system that requires verifying the system meets specific security functional and assurance requirements through formal analysis and testing. The system will handle classified data and must undergo rigorous evaluation. Which evaluation framework is MOST appropriate for this scenario?
+
+- **A)** ITSEC, which provides a comprehensive, flexible approach to security evaluation independent of the target's origin
+- **B)** TCSEC (Orange Book), which focuses exclusively on confidentiality policies for military systems
+- **C)** Common Criteria, which standardizes evaluation across nations using Protection Profiles and Security Targets
+- **D)** FIPS 140-3, which validates cryptographic module implementations
+
+*Think about it before scrolling...*
+
+📌 **Answer: C**
+
+💡 **Tip:** The Common Criteria (ISO/IEC 15408) is the internationally recognized framework for security evaluation. It uses Protection Profiles (PPs) to define security requirements for specific types of products and Security Targets (STs) to describe the specific implementation. EAL levels (1–7) define assurance rigor. TCSEC is obsolete, ITSEC was a European precursor, and FIPS 140-3 is only for cryptographic modules.
+
+🔥 **Key Takeaway:** Common Criteria is the gold-standard international framework for evaluating security products across multiple assurance levels with government recognition.
+
+---
+
