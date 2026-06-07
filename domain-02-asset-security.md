@@ -138,3 +138,25 @@ A multinational corporation is migrating its customer relationship management (C
 
 ---
 
+
+## Question #7
+
+**Question:**
+
+A financial institution is implementing a Data Loss Prevention (DLP) solution to prevent sensitive customer information from being transmitted outside the corporate network. The security team has identified that employees frequently email spreadsheets containing personally identifiable information (PII) to external partners. Which type of DLP control would be MOST effective at inspecting and blocking these outbound emails at the network perimeter?
+
+- **A)** Endpoint DLP agent monitoring clipboard operations
+- **B)** Network DLP inspecting SMTP traffic for content patterns
+- **C)** Storage DLP scanning databases for unencrypted data
+- **D)** Discovery DLP classifying data at rest on file servers
+
+*Think about it before scrolling...*
+
+📌 **Answer: B**
+
+💡 **Tip:** Network DLP operates at the network perimeter, inspecting traffic in motion (SMTP, HTTP, FTP) for sensitive content patterns like SSNs or credit card numbers. Endpoint DLP covers local actions (USB, clipboard), storage DLP protects data at rest, and discovery DLP finds unclassified data stores.
+
+🔥 **Key Takeaway:** DLP controls are categorized by where data lives—Network DLP monitors data in motion, Endpoint DLP monitors data in use, and Storage/Discovery DLP monitors data at rest.
+
+---
+
