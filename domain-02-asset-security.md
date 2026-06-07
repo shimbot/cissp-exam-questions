@@ -116,3 +116,25 @@ A multinational corporation collects personal data from users across the EU. The
 
 ---
 
+
+## Question #6
+
+**Question:**
+
+A multinational corporation is migrating its customer relationship management (CRM) system to a public cloud provider. The CISO has approved the migration on the condition that all customer data remain encrypted both at rest and in transit, and that the organization retains the ability to manage its own encryption keys. The cloud provider offers a Hardware Security Module (HSM) service for key management. Which of the following BEST describes the shared responsibility model in this scenario?
+
+- **A)** The cloud provider is responsible for securing the physical infrastructure, while the organization is responsible for managing access to the CRM application and customer data.
+- **B)** The cloud provider is solely responsible for all security controls, including encryption key management, because it owns the HSM.
+- **C)** The organization is responsible for everything above the hypervisor, including application security, while the provider manages the physical data center only.
+- **D)** The organization must deploy its own on-premises HSM and cannot use the cloud provider's key management service under any circumstances.
+
+*Think about it before scrolling...*
+
+📌 **Answer: A**
+
+💡 **Tip:** In the cloud shared responsibility model, the provider always secures the physical layer (data centers, hardware, network), while the customer secures data, access, and configurations. Even when using provider-managed HSMs, the customer retains responsibility for how keys are used and who has access to them — this is a classic CISSP distinction.
+
+🔥 **Key Takeaway:** In any cloud deployment, the customer never fully offloads responsibility for data classification, access management, and encryption governance — security of the cloud vs. security in the cloud.
+
+---
+
