@@ -160,3 +160,25 @@ A financial institution is implementing a Data Loss Prevention (DLP) solution to
 
 ---
 
+
+## Question #8
+
+**Question:**
+
+An organization uses Microsoft Azure Information Protection (AIP) to classify and protect sensitive documents. When a user emails a classified document to an external partner, the recipient can open the file but cannot forward it, print it, or take screenshots — even after downloading it to their local device. The protection persists regardless of where the file is stored. Which technology BEST describes this capability?
+
+- **A)** Digital rights management (DRM) via information rights management (IRM)
+- **B)** Data loss prevention (DLP) policy enforcement
+- **C)** Full-disk encryption (FDE) with key management
+- **D)** Transport layer security (TLS) for email encryption
+
+*Think about it before scrolling...*
+
+📌 **Answer: A**
+
+💡 **Tip:** IRM (also called enterprise DRM or IPP) applies persistent usage policies that travel with the file — restricting actions like forward, print, copy, and screenshot — regardless of the file's storage location. DLP detects and blocks data in motion, but does not enforce persistent restrictions after delivery.
+
+🔥 **Key Takeaway:** Information Rights Management (IRM) enforces persistent usage controls on documents that remain in effect no matter where the file is stored or forwarded.
+
+---
+
