@@ -204,3 +204,25 @@ A security architect is designing an access control policy for a healthcare orga
 
 ---
 
+
+## Question #10
+
+**Question:**
+
+A large healthcare organization is implementing a new data governance program. The CIO assigns a senior doctor to classify patient health records, a database administrator to implement technical access controls, and an IT manager to maintain the data's accuracy and availability on a daily basis. Which of the following correctly identifies these roles?
+
+- **A)** Doctor = Data Owner, DBA = Data Custodian, IT Manager = Data Steward
+- **B)** Doctor = Data Steward, DBA = Data Owner, IT Manager = Data Custodian
+- **C)** Doctor = Data Owner, DBA = Data Steward, IT Manager = Data Custodian
+- **D)** Doctor = Data Custodian, DBA = Data Owner, IT Manager = Data Steward
+
+*Think about it before scrolling...*
+
+📌 **Answer: A**
+
+💡 **Tip:** In data governance, the Data Owner (typically a senior business leader) classifies data and determines who can access it. The Data Steward ensures data quality and manages day-to-day accuracy, while the Data Custodian (typically IT) implements and maintains the technical security controls.
+
+🔥 **Key Takeaway:** Data Owner classifies/authorizes, Data Custodian implements controls (IT), Data Steward maintains data quality — these three roles are distinct and commonly tested on the CISSP exam.
+
+---
+
