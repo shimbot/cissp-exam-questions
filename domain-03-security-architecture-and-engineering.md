@@ -116,3 +116,25 @@ A large financial institution is adopting a security architecture framework to a
 
 ---
 
+
+## Question #6
+
+**Question:**
+
+A security architect is designing access controls for a critical financial application. The architect implements multiple security layers so that if one control fails, others continue to protect the asset. The design also ensures that when a system fails, it defaults to a locked-down state denying access rather than permitting it. Which security design principles are being applied in this scenario?
+
+- **A)** Separation of duties and job rotation
+- **B)** Defense in depth and fail secure
+- **C)** Least privilege and need-to-know
+- **D)** Abstract layering and data hiding
+
+*Think about it before scrolling...*
+
+📌 **Answer: B**
+
+💡 **Tip:** Defense in depth (layered security) ensures multiple overlapping controls protect an asset, while fail secure means the system defaults to a denied/secure state on failure. These are foundational secure design principles. Fail secure is often confused with fail safe — fail safe prioritizes safety (e.g., doors unlock on fire), while fail secure prioritizes security (e.g., doors stay locked on power loss).
+
+🔥 **Key Takeaway:** Defense in depth provides layered protection, and fail secure ensures failures don't compromise security — combining these creates resilient, secure system designs.
+
+---
+
