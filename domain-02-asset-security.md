@@ -50,3 +50,25 @@ A healthcare organization must share a large dataset of patient records with a r
 
 ---
 
+
+## Question #3
+
+**Question:**
+
+A security architect is designing a data governance program for a multinational corporation that processes customer PII across multiple jurisdictions. The architect needs to ensure that data is created, stored, used, shared, archived, and destroyed in a controlled manner that aligns with legal retention requirements. Which of the following frameworks BEST describes this structured approach?
+
+- **A)** Data classification schema
+- **B)** Data lifecycle management
+- **C)** Information rights management
+- **D)** Data leakage prevention program
+
+*Think about it before scrolling...*
+
+📌 **Answer: B**
+
+💡 **Tip:** The data lifecycle covers all phases from creation through destruction, including storage, usage, sharing, and archival. While classification (A) labels data, IRM (C) protects rights, and DLP (D) prevents leaks — none alone governs the full lifecycle end-to-end with retention compliance.
+
+🔥 **Key Takeaway:** Data lifecycle management defines policies for each phase of data from inception to secure disposal, ensuring legal and regulatory compliance throughout.
+
+---
+
