@@ -94,3 +94,25 @@ A security architect is selecting an evaluation standard for a new government sy
 
 ---
 
+
+## Question #5
+
+**Question:**
+
+A large financial institution is adopting a security architecture framework to align its business strategy with IT security. The chosen framework categorizes the architecture into six layers: Contextual, Conceptual, Logical, Physical, Component, and Operational. It heavily uses a metamodel approach focusing on "who, what, when, why, and how" of enterprise architecture. Which security architecture framework is being described?
+
+- **A)** SABSA
+- **B)** TOGAF
+- **C)** Zachman Framework
+- **D)** ISO 27001
+
+*Think about it before scrolling...*
+
+📌 **Answer: C**
+
+💡 **Tip:** The Zachman Framework is an enterprise architecture ontology that organizes artifacts into six rows (Contextual, Conceptual, Logical, Physical, Detailed/Component, Operational) and six columns (Data, Function, Network, People, Time, Motivation). TOGAF provides a process (ADM) for developing architectures, while SABSA is specifically a security architecture framework derived from Zachman. The clue here is the six-layer categorization and the "who, what, when, why, how" interrogatives — those are hallmarks of the Zachman Framework.
+
+🔥 **Key Takeaway:** Zachman = What/How/Where/Who/When/Why ontology matrix; SABSA = Zachman adapted for security; TOGAF = a process/methodology (ADM) for building architectures.
+
+---
+
