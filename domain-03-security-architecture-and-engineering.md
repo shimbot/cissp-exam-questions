@@ -226,3 +226,25 @@ A security architect is designing access controls for a high-security data cente
 
 ---
 
+
+## Question #11
+
+**Question:**
+
+A security analyst discovers that an employee's workstation is executing unusual outbound connections to a known command-and-control (C2) server every 60 seconds. The endpoint protection software shows no alerts, and the file appears to be signed with a valid, trusted code-signing certificate. Which type of malware technique BEST describes this scenario?
+
+- **A)** Bootkit infection at the MBR level
+- **B)** Polymorphic virus with signature obfuscation
+- **C)** Rootkit using kernel-mode hooking
+- **D)** Trojan horse masquerading as legitimate software
+
+*Think about it before scrolling...*
+
+📌 **Answer: C**
+
+💡 **Tip:** The file has a valid certificate and evades detection — this points to a rootkit that hooks kernel APIs (e.g., SSDT or syscall table) to hide its processes and files from security tools, while the signed binary gains trust.
+
+🔥 **Key Takeaway:** Rootkits operate at the kernel or hypervisor layer to subvert the OS and hide malicious activity from user-mode security tools.
+
+---
+
