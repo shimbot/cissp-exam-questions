@@ -94,3 +94,25 @@ A security analyst is troubleshooting a connectivity issue where traffic between
 
 ---
 
+
+## Question #5
+
+**Question:**
+
+A security analyst is reviewing network traffic logs and notices an unusually high volume of TCP SYN packets sent to a web server from multiple spoofed source IP addresses, none of which complete the three-way handshake. The server is becoming unresponsive to legitimate clients. This attack exploits which characteristic of the TCP/IP protocol suite?
+
+- **A)** TCP sequence number prediction vulnerability
+- **B)** The stateless nature of the IP protocol at Layer 3
+- **C)** The TCP three-way handshake requiring server-side state allocation before authentication
+- **D)** The lack of encryption in the TCP header
+
+*Think about it before scrolling...*
+
+📌 **Answer: C**
+
+💡 **Tip:** A SYN flood attack leverages the TCP three-way handshake design — the server allocates memory and state (the TCB) upon receiving a SYN segment before the handshake completes. Spoofed SYNs cause the server to exhaust resources waiting for ACKs that never arrive, making this a classic resource exhaustion attack at Layer 4.
+
+🔥 **Key Takeaway:** SYN flood attacks exploit the asymmetric resource commitment in TCP's connection establishment — the server commits resources before the client authenticates.
+
+---
+
