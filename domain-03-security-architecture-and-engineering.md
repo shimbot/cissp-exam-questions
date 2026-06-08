@@ -160,3 +160,25 @@ A security architect is designing an access control system for a distributed app
 
 ---
 
+
+## Question #8
+
+**Question:**
+
+A financial services company hires a security firm to perform a penetration test on their new online banking web application. The testers discover that the application uses unsalted MD5 hashing for storing user passwords, and the login page is vulnerable to SQL injection. Additionally, the application does not implement proper session management, allowing session IDs to be captured via XSS. Which of the following OWASP Top 10 categories best describes the **most critical** vulnerability that should be addressed first?
+
+- **A)** Broken Authentication
+- **B)** Injection
+- **C)** Broken Access Control
+- **D)** Security Misconfiguration
+
+*Think about it before scrolling...*
+
+📌 **Answer: B**
+
+💡 **Tip:** While unsalted MD5 hashes fall under Broken Authentication (A), and XSS could lead to session hijacking, the SQL injection is an Injection vulnerability (B) that directly allows attackers to bypass authentication, extract sensitive data, or execute arbitrary commands. Injection flaws are often rated as the most critical because they can lead to complete compromise of the backend database.
+
+🔥 **Key Takeaway:** Injection attacks, particularly SQL injection, remain a top web application risk because they directly target the data layer and can bypass all other security controls.
+
+---
+
