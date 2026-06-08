@@ -72,3 +72,25 @@ A security architect is reviewing wireless network configurations for a corporat
 
 ---
 
+
+## Question #4
+
+**Question:**
+
+A security analyst is troubleshooting a connectivity issue where traffic between two subnets is failing. The analyst verifies that the physical cables and switches are operational, and that the IP addressing and routing tables are correctly configured. However, packets are still being dropped. At which layer of the OSI model should the analyst focus next to identify the issue?
+
+- **A)** Layer 5 — Session Layer
+- **B)** Layer 2 — Data Link Layer
+- **C)** Layer 4 — Transport Layer
+- **D)** Layer 6 — Presentation Layer
+
+*Think about it before scrolling...*
+
+📌 **Answer: B) Layer 2 — Data Link Layer**
+
+💡 **Tip:** The OSI model breaks networking into seven layers. If physical (Layer 1) is verified and network (Layer 3) is correct, then the problem might be at Layer 2, which handles framing, MAC addressing, and switching. Troubleshooting should follow the OSI layers sequentially.
+
+🔥 **Key Takeaway:** When troubleshooting OSI model issues, always verify each layer bottom-up — physical (L1), data link (L2), network (L3) — before moving higher.
+
+---
+
