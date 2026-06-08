@@ -182,3 +182,25 @@ A security architect is designing a new data center network and recommends deplo
 
 ---
 
+
+## Question #9
+
+**Question:**
+
+A security analyst is reviewing the architecture of a VoIP deployment in a corporate environment. She notices that all voice traffic between the IP phones and the PBX server is transmitted without encryption, and the phones use DHCP to obtain their network configuration. Which of the following attack vectors poses the MOST significant risk in this configuration?
+
+- **A)** ARP spoofing to redirect VoIP traffic to an attacker's device for eavesdropping
+- **B)** SQL injection against the PBX server's web management interface
+- **C)** Rainbow table attack on hashed voicemail passwords
+- **D)** Buffer overflow in the phone's firmware update mechanism
+
+*Think about it before scrolling...*
+
+📌 **Answer: A**
+
+💡 **Tip:** VoIP traffic is highly sensitive and should be protected using protocols like SRTP (encryption) and TLS for signaling. Without encryption, unauthenticated DHCP and ARP interactions make man-in-the-middle attacks trivial. Combining VLAN segmentation (voice VLAN) with 802.1X port security adds critical layers of defense.
+
+🔥 **Key Takeaway:** Unencrypted VoIP traffic over a flat network segment is extremely vulnerable to ARP spoofing and eavesdropping; always segment voice traffic into a dedicated VLAN and enforce SRTP/TLS.
+
+---
+
