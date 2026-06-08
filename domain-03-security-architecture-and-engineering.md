@@ -182,3 +182,25 @@ A financial services company hires a security firm to perform a penetration test
 
 ---
 
+
+## Question #9
+
+**Question:**
+
+A security architect is reviewing a web application that stores sensitive customer data. The development team implemented input validation on the client side using JavaScript, but the server does not independently validate or sanitize user-supplied input. Which OWASP Top 10 risk is the application MOST vulnerable to?
+
+- **A)** Security Misconfiguration
+- **B)** Broken Access Control
+- **C)** Injection (e.g., SQL, NoSQL, OS command)
+- **D)** Cryptographic Failures
+
+*Think about it before scrolling...*
+
+📌 **Answer: C**
+
+💡 **Tip:** Client-side validation provides a better user experience but offers zero security protection — an attacker can easily bypass it using tools like cURL or Burp Suite. Server-side input validation, parameterized queries, and output encoding are essential defenses against injection attacks.
+
+🔥 **Key Takeaway:** Never rely on client-side validation for security; all input must be validated and sanitized on the server side to prevent injection attacks.
+
+---
+
