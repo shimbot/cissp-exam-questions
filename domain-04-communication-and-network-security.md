@@ -50,3 +50,25 @@ A security architect is designing a multi-tier web application that must be acce
 
 ---
 
+
+## Question #3
+
+**Question:**
+
+A security architect is reviewing wireless network configurations for a corporate headquarters. The organization requires strong mutual authentication between wireless clients and the RADIUS server, with per-user encryption keys. Which of the following configurations BEST meets this requirement?
+
+- **A)** WPA2-PSK with AES encryption and MAC address filtering
+- **B)** WPA3-SAE with OWE enabled for all clients
+- **C)** WPA2-Enterprise using EAP-TLS with certificate-based authentication
+- **D)** WPA3-Personal with Simultaneous Authentication of Equals
+
+*Think about it before scrolling...*
+
+📌 **Answer: C**
+
+💡 **Tip:** WPA2-Enterprise (IEEE 802.1X) with EAP-TLS provides mutual authentication through X.509 certificates on both the supplicant (client) and the authentication server (RADIUS). Unlike pre-shared key methods (PSK/SAE) which use a shared passphrase, EAP-TLS generates unique, per-session encryption keys via the 4-way handshake. This is the gold standard for enterprise wireless security because both parties prove their identity independently, preventing man-in-the-middle attacks and rogue access point threats.
+
+🔥 **Key Takeaway:** For strong mutual authentication in enterprise Wi-Fi, use 802.1X/EAP-TLS — certificate-based authentication on both client and server provides far stronger assurance than any shared-key method.
+
+---
+
