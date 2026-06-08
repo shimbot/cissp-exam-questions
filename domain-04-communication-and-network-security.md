@@ -160,3 +160,25 @@ A security analyst observes unusual traffic on the corporate network. Several in
 
 ---
 
+
+## Question #8
+
+**Question:**
+
+A security architect is designing a new data center network and recommends deploying Software-Defined Networking (SDN) with a centralized controller. The network team raises concerns about a single point of failure and potential attack surface. Which security control BEST addresses these concerns while preserving SDN benefits?
+
+- **A)** Implementing micro-segmentation at the virtual switch level
+- **B)** Deploying redundant, clustered SDN controllers with encrypted communications
+- **C)** Moving the control plane functions to each individual switch
+- **D)** Using VLANs to separate traffic instead of SDN architecture
+
+*Think about it before scrolling...*
+
+📌 **Answer: B**
+
+💡 **Tip:** In SDN, the controller is the "brain" of the network. A single controller is a critical point of failure and a high-value target. Clustering controllers (active-active or active-standby) with encrypted East/West communication between them provides both high availability and protection against compromise, while preserving the centralized SDN benefits.
+
+🔥 **Key Takeaway:** SDN controllers must be clustered for redundancy and use encrypted channels between them to avoid controller hijacking or DoS of the centralized control plane.
+
+---
+
