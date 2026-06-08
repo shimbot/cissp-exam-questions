@@ -116,3 +116,25 @@ A security analyst is reviewing network traffic logs and notices an unusually hi
 
 ---
 
+
+## Question #6
+
+**Question:**
+
+A security analyst notices anomalous outbound traffic from the internal network to an unknown external IP address during a routine log review. Further investigation reveals that a server in the DMZ is sending encrypted data to this IP every 30 seconds. The company uses a stateful firewall at the perimeter, but no internal segmentation between the DMZ and internal network. Which of the following would BEST detect and prevent this type of exfiltration in the future?
+
+- **A)** Deploying a honeypot on the same subnet as the compromised server
+- **B)** Implementing an IPS with signature-based and anomaly-based detection rules inline on the DMZ segment
+- **C)** Replacing the stateful firewall with a packet-filtering firewall
+- **D)** Enabling port security on the DMZ switch ports
+
+*Think about it before scrolling...*
+
+📌 **Answer: B**
+
+💡 **Tip:** An Intrusion Prevention System (IPS) operates inline and can both detect suspicious outbound traffic via anomaly-based rules and actively block it — something a firewall alone or passive detection cannot do. Honeypots can attract attackers but won't prevent active exfiltration from a real server.
+
+🔥 **Key Takeaway:** IPS provides inline detection AND prevention, making it critical for catching data exfiltration that firewalls alone may miss due to encrypted traffic.
+
+---
+
