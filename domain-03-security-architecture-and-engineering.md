@@ -204,3 +204,25 @@ A security architect is reviewing a web application that stores sensitive custom
 
 ---
 
+
+## Question #10
+
+**Question:**
+
+A security architect is designing access controls for a high-security data center that processes classified government contracts. The facility requires a layered physical security approach. Which of the following would BEST describe the use of a mantrap in this environment?
+
+- **A)** A mantrap replaces the need for card readers by using biometric authentication at all entry points
+- **B)** A mantrap is a physical barrier that prevents tailgating by allowing only one person to pass through at a time using interlocking doors
+- **C)** A mantrap is a software-based access control that monitors for piggybacking after authentication
+- **D)** A mantrap is a type of perimeter fence designed to detect intrusion attempts before reaching the building
+
+*Think about it before scrolling...*
+
+📌 **Answer: B**
+
+💡 **Tip:** A mantrap (or access control vestibule) uses two interlocking doors so that the first door must close and lock before the second opens, preventing unauthorized tailgating or piggybacking. It is a physical, not logical, control.
+
+🔥 **Key Takeaway:** Mantraps are physical deterrents that enforce one-person-per-authentication to prevent tailgating at sensitive facility entry points.
+
+---
+
