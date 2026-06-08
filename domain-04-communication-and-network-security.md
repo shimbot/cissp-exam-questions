@@ -138,3 +138,25 @@ A security analyst notices anomalous outbound traffic from the internal network 
 
 ---
 
+
+## Question #7
+
+**Question:**
+
+A security analyst observes unusual traffic on the corporate network. Several internal workstations are sending large volumes of ICMP echo requests to a single external server, each with a spoofed source IP address belonging to the company's public-facing web server. The external server is responding with ICMP echo replies back to the web server, overwhelming its network interface. Which type of network attack is being executed from within the organization?
+
+- **A)** Smurf attack
+- **B)** Fraggle attack
+- **C)** SYN flood
+- **D)** DNS amplification attack
+
+*Think about it before scrolling...*
+
+📌 **Answer: A**
+
+💡 **Tip:** A Smurf attack uses ICMP echo requests with a spoofed source IP (the victim) sent to a broadcast address, causing all devices on that network to reply to the victim. This has largely been mitigated by disabling directed broadcast forwarding on routers.
+
+🔥 **Key Takeaway:** Smurf attacks are reflection-based DDoS attacks leveraging ICMP and directed broadcasts to amplify traffic against a target.
+
+---
+
