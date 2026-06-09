@@ -314,3 +314,25 @@ A security architect is designing a network for a financial services company tha
 
 ---
 
+
+## Question #15
+
+**Question:**
+
+A security architect is designing a new network segment to host publicly accessible web servers that need to communicate with internal application servers located on a separate, restricted VLAN. The architect wants to ensure that if the web servers are compromised, the internal network remains isolated. Which network architecture BEST achieves this objective?
+
+- **A)** Placing the web servers and application servers on the same VLAN with host-based firewall rules
+- **B)** Configuring the web servers in a DMZ with stateful firewall rules allowing only specific outbound traffic to the internal application servers
+- **C)** Deploying the web servers in a private cloud with direct Layer 2 connectivity to internal servers
+- **D)** Using NAT on the web servers to hide their addresses while directly routing traffic to the application servers
+
+*Think about it before scrolling...*
+
+📌 **Answer: B**
+
+💡 **Tip:** A DMZ (demilitarized zone) provides a buffer between the public internet and the internal network. Servers in the DMZ are intentionally isolated so that a breach of a public-facing system does not grant direct access to the trusted internal network. Stateful firewalls inspect and restrict traffic at Layers 3-4 (and often 7), and applying least-privilege rules ensures only necessary traffic is allowed inbound and outbound.
+
+🔥 **Key Takeaway:** A properly configured DMZ uses layered firewall rules to isolate public-facing servers from internal resources, ensuring that a compromise of a public system does not automatically lead to internal network access.
+
+---
+
