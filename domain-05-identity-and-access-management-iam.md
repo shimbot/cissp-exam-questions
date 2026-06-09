@@ -28,3 +28,25 @@ A multinational organization is implementing a single sign-on (SSO) solution to 
 
 ---
 
+
+## Question #2
+
+**Question:**
+
+A security architect is designing an access control system for a healthcare application where patient records must be classified by sensitivity (Public, Internal, Confidential, Restricted). Each provider's access to a record is determined by their role (Doctor, Nurse, Admin) combined with patient consent flags. To enforce this, the architect implements a system that evaluates rules against both the subject's role attributes and the resource's sensitivity label. Which combination of access control models is being implemented?
+
+- **A)** MAC with RBAC
+- **B)** RBAC with DAC
+- **C)** DAC with MAC
+- **D)** ABAC with RBAC
+
+*Think about it before scrolling...*
+
+📌 **Answer: D**
+
+💡 **Tip:** Attribute-Based Access Control (ABAC) evaluates policies against multiple attributes (subject, resource, environment), and Role-Based Access Control (RBAC) assigns permissions based on job roles. In this scenario, access is determined by both the user's role (RBAC element) and the resource's sensitivity label along with patient consent flags (ABAC-style attribute evaluation). This hybrid ABAC/RBAC approach is common in modern healthcare systems where complex, multi-variable access decisions are needed.
+
+🔥 **Key Takeaway:** ABAC provides fine-grained, policy-driven access decisions by evaluating multiple attributes, making it ideal for complex environments like healthcare where role alone is insufficient.
+
+---
+
