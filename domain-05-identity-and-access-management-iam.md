@@ -72,3 +72,25 @@ A security architect is implementing an authentication system for a healthcare o
 
 ---
 
+
+## Question #4
+
+**Question:**
+
+A security architect is designing a network access control solution for a large enterprise. The solution needs to support authentication, authorization, and accounting for network device administration across routers, switches, and firewalls. A key requirement is that the protocol must encrypt the entire authentication process, including usernames, passwords, and all subsequent AAA transactions. Which protocol BEST meets these requirements?
+
+- **A)** RADIUS
+- **B)** TACACS+
+- **C)** LDAP
+- **D)** Kerberos
+
+*Think about it before scrolling...*
+
+📌 **Answer: B**
+
+💡 **Tip:** RADIUS encrypts only the password field in the access-request packet, leaving the username, accounting data, and other attributes in cleartext. TACACS+ encrypts the entire AAA packet (all fields) and separates authentication, authorization, and accounting into three distinct services, making it ideal for device administration scenarios where full confidentiality is required.
+
+🔥 **Key Takeaway:** TACACS+ encrypts the entire body of every packet, while RADIUS only encrypts the password — a critical distinction for device administration security.
+
+---
+
