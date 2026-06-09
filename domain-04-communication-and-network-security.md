@@ -226,3 +226,25 @@ A security analyst is troubleshooting a Voice over IP (VoIP) deployment in a cor
 
 ---
 
+
+## Question #11
+
+**Question:**
+
+A security architect is designing a network for a government facility that processes classified information. To mitigate the risk of electromagnetic eavesdropping (compromising emanations), the architect needs to select controls for the physical network infrastructure in areas where cables pass through unsecured zones. Which of the following is the MOST effective physical-layer countermeasure against this threat?
+
+- **A)** Implementing Faraday cages around cable pathways
+- **B)** Using fiber-optic cabling instead of copper
+- **C)** Encrypting all data traversing the network
+- **D)** Installing conduit shielding on all cable runs
+
+*Think about it before scrolling...*
+
+📌 **Answer: B**
+
+💡 **Tip:** Fiber-optic cables do not emit electromagnetic radiation, making them immune to TEMPEST-style eavesdropping. While Faraday cages and conduit shielding reduce emanations from copper cables, fiber entirely eliminates the emissions at the physical layer. Encryption (C) protects data content but does nothing to prevent signal interception via physical emanations.
+
+🔥 **Key Takeaway:** Fiber-optic cabling is the definitive physical-layer countermeasure against electromagnetic eavesdropping because it produces no measurable electromagnetic radiation.
+
+---
+
