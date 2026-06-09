@@ -248,3 +248,25 @@ A security architect is designing a network for a government facility that proce
 
 ---
 
+
+## Question #12
+
+**Question:**
+
+A security architect is designing a network for a multinational corporation that must securely connect its headquarters to five regional offices across different continents. The solution must support multiple protocols, ensure high availability, and maintain data confidentiality across all links. Which solution BEST meets these requirements in terms of secure network architecture?
+
+- **A)** Deploy site-to-site IPsec VPN tunnels from each regional office to the headquarters
+- **B)** Implement a MPLS-based WAN with IPsec encryption for the data plane
+- **C)** Configure standard internet-based SSL/TLS VPNs between all offices
+- **D)** Use direct leased lines with MACsec encryption end-to-end
+
+*Think about it before scrolling...*
+
+📌 **Answer: B**
+
+💡 **Tip:** MPLS provides QoS, reliability, and SLA-backed performance; adding IPsec on top ensures data confidentiality across the provider network. Site-to-site VPNs alone (A) may lack performance guarantees, leased lines (D) are cost-prohibitive globally, and SSL/TLS VPNs (C) are better suited for remote-user access rather than site-to-site connectivity.
+
+🔥 **Key Takeaway:** MPLS with IPsec on the data plane is the gold standard for secure, reliable, and QoS-enabled WAN interconnections between enterprise sites.
+
+---
+
