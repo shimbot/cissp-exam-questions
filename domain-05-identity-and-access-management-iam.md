@@ -94,3 +94,25 @@ A security architect is designing a network access control solution for a large 
 
 ---
 
+
+## Question #5
+
+**Question:**
+
+A security architect is designing an authentication system for a multinational corporation. The policy requires passwords that are resistant to brute-force, dictionary, and rainbow table attacks while remaining manageable for users across diverse technical backgrounds. Which combination of controls BEST addresses these requirements?
+
+- **A)** Minimum 8 characters, complexity requiring uppercase+lowercase+digit, and password expiration every 30 days
+- **B)** Use of passphrases of at least 15 characters, combined with salted hashing using a slow key derivation function (e.g., bcrypt, Argon2)
+- **C)** Single sign-on with Kerberos, disabling all local password authentication
+- **D)** Mandatory password changes every 90 days, minimum 12 characters using only alphanumeric characters, stored as MD5 hashes
+
+*Think about it before scrolling...*
+
+📌 **Answer: B**
+
+💡 **Tip:** Passphrases offer high entropy while being easier to remember. Salting defeats rainbow tables, and slow KDFs (bcrypt, Argon2, PBKDF2, scrypt) make brute-force and dictionary attacks computationally expensive — far more effective than complexity rules or frequent rotation alone.
+
+🔥 **Key Takeaway:** Modern password security favors long, memorable passphrases with salted slow-hash storage over arbitrary complexity rules and frequent rotation.
+
+---
+
