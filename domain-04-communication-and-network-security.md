@@ -204,3 +204,25 @@ A security analyst is reviewing the architecture of a VoIP deployment in a corpo
 
 ---
 
+
+## Question #10
+
+**Question:**
+
+A security analyst is troubleshooting a Voice over IP (VoIP) deployment in a corporate environment. Users report choppy audio and occasional call drops. The network team confirms that voice and data traffic share the same VLAN without any prioritization. The VoIP phones use DHCP for addressing but rely on a central call manager with TLS signaling. Which of the following issues is MOST likely degrading the VoIP quality?
+
+- **A)** Lack of TLS encryption between VoIP endpoints
+- **B)** Absence of a VLAN dedicated to voice traffic with QoS enabled
+- **C)** Use of DHCP instead of static IP addressing for VoIP phones
+- **D)** The call manager is not configured with a redundant failover
+
+*Think about it before scrolling...*
+
+📌 **Answer: B**
+
+💡 **Tip:** VoIP traffic is latency-sensitive and requires Quality of Service (QoS) mechanisms. Placing voice on a separate VLAN with QoS prioritization prevents data traffic from competing for bandwidth and causing jitter or dropped packets. TLS encryption protects signaling but does not address bandwidth contention, DHCP is acceptable for phones, and redundancy helps availability but not quality.
+
+🔥 **Key Takeaway:** VoIP and multimedia traffic must be isolated with QoS to ensure consistent call quality and prevent data traffic from causing latency or jitter.
+
+---
+
