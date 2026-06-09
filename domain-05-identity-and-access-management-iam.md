@@ -50,3 +50,25 @@ A security architect is designing an access control system for a healthcare appl
 
 ---
 
+
+## Question #3
+
+**Question:**
+
+A security architect is implementing an authentication system for a healthcare organization that must comply with HIPAA. The solution requires users to authenticate using something they know (password), something they have (smart card), and something they are (fingerprint scan). The architect is concerned about the fingerprint scanner's false acceptance rate (FAR). Which of the following describes the most significant risk associated with a high FAR in this multi-factor authentication setup?
+
+- **A)** Legitimate users will be frequently denied access, reducing productivity
+- **B)** An unauthorized individual could be mistakenly authenticated as a valid user, compromising patient data
+- **C)** The smart card reader will fail to communicate with the authentication server
+- **D)** Password complexity requirements will need to be reduced to compensate for biometric errors
+
+*Think about it before scrolling...*
+
+📌 **Answer: B**
+
+💡 **Tip:** FAR (False Acceptance Rate) measures the likelihood that a biometric system incorrectly authenticates an unauthorized user. A high FAR means imposters may be accepted, which directly threatens data confidentiality — a critical concern under HIPAA. FRR (False Rejection Rate) is the opposite: legitimate users being rejected.
+
+🔥 **Key Takeaway:** High FAR increases the risk of unauthorized access; high FRR impacts usability — understanding the trade-off between FAR and FRR is essential for balancing security with user experience.
+
+---
+
