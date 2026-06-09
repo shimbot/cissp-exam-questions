@@ -292,3 +292,25 @@ A security analyst is reviewing vulnerabilities in the organization's VoIP infra
 
 ---
 
+
+## Question #14
+
+**Question:**
+
+A security architect is designing a network for a financial services company that handles sensitive customer transactions. The company needs to isolate its payment processing systems from the corporate network while still allowing authorized employees to access both environments using a single set of credentials. Which network architecture approach BEST satisfies these requirements?
+
+- **A)** Deploy a Layer 2 switch that connects both networks with VLAN tagging and 802.1Q trunking
+- **B)** Implement a screened subnet (DMZ) with dual-firewall architecture between the two networks
+- **C)** Place a VPN concentrator between the networks and require all cross-network traffic to use IPsec tunnels
+- **D)** Use network address translation (NAT) to hide the payment network's internal IP scheme from the corporate network
+
+*Think about it before scrolling...*
+
+📌 **Answer: B**
+
+💡 **Tip:** A screened subnet (DMZ) with dual firewalls creates a buffer zone where the inner firewall strictly controls traffic to the payment systems while the outer firewall manages corporate access. This enforces defense in depth and allows separate security policies per zone, unlike simple VLAN tagging or NAT which lack this level of inspection and control. Placing a VPN between internal networks adds unnecessary overhead without the same architectural isolation.
+
+🔥 **Key Takeaway:** A dual-firewall DMZ architecture provides the strongest isolation between networks of different trust levels while enabling controlled, policy-based access.
+
+---
+
