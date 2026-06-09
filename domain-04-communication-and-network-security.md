@@ -270,3 +270,25 @@ A security architect is designing a network for a multinational corporation that
 
 ---
 
+
+## Question #13
+
+**Question:**
+
+A security analyst is reviewing vulnerabilities in the organization's VoIP infrastructure. She discovers that an attacker could craft a malformed SIP INVITE message that causes the VoIP gateway to crash and restart, dropping all active calls. Additionally, she finds that voice traffic between sites is sent in clear text over the WAN connection. Which of the following is the MOST important security control to implement FIRST?
+
+- **A)** Deploy a session border controller (SBC) with SIP inspection and configure SRTP for media encryption
+- **B)** Implement VLAN segmentation for VoIP traffic and apply QoS policies
+- **C)** Require MFA for all VoIP administrative accounts
+- **D)** Apply the latest firmware patches to the VoIP gateway and all IP phones
+
+*Think about it before scrolling...*
+
+📌 **Answer: A**
+
+💡 **Tip:** VoIP systems face two critical categories of threats: protocol-level attacks (like malformed SIP messages) and eavesdropping on unencrypted media. A Session Border Controller (SBC) provides SIP deep inspection, topology hiding, and DoS protection, while Secure RTP (SRTP) encrypts the voice media stream. Although patching (D) and segmentation (B) help, an SBC addresses both the SIP vulnerability and the lack of encryption using SRTP and TLS for signaling.
+
+🔥 **Key Takeaway:** VoIP security requires protecting both the signaling path (SIP over TLS) and the media path (SRTP) — a Session Border Controller is the primary defense for enterprise VoIP deployments.
+
+---
+
